@@ -2,6 +2,9 @@
 
 | name | steam URL |
 | ------ | ------ |
+| 3D | https://steamcommunity.com/profiles/76561198818703363 |
+| Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
+| JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
@@ -35,7 +38,6 @@
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
 | 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
-| 3D | https://steamcommunity.com/profiles/76561198818703363 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
