@@ -1,4 +1,4 @@
-# AceCombat7 cheaters
+# AC7 cheaters
 
 | name | steam URL |
 | ------ | ------ |
@@ -38,3 +38,5 @@
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
 | Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
+| Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
+| 原罪学者 | https://steamcommunity.com/profiles/76561199025794488 |
