@@ -7,6 +7,8 @@
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
 | 习近平 | https://steamcommunity.com/profiles/76561199438934867 |
+| pqoo71 | https://steamcommunity.com/profiles/76561199310017870 |
+| armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
 | JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
 | appl | https://steamcommunity.com/profiles/76561198081430238 |
@@ -24,7 +26,7 @@
 | ..&#124;.. | https://steamcommunity.com/profiles/76561198108197134 |
 | WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
 | ATHOOD | https://steamcommunity.com/profiles/76561198101337488 |
-| 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
+|  | https://steamcommunity.com/profiles/76561198851216499 |
 | ^&#124;^ | https://steamcommunity.com/profiles/76561199066388594 |
 | &lt;font color=rpg#FF3030&gt;Vigoss | https://steamcommunity.com/profiles/76561198078057512 |
 | 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
