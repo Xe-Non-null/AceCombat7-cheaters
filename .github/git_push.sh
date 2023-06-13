@@ -1,4 +1,4 @@
-git config user.name "AC7-cheaters"
+git config user.name "AceCombat7-cheaters"
 git config user.email "yajyuudesu@gmail.com"
 
 cha=`git status -s`
