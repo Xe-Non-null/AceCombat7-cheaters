@@ -1,5 +1,5 @@
-git config user.name "AceCombat7-cheaters"
-git config user.email "yajyuudesu@gmail.com"
+git config user.name "Doraemon"
+git config user.email "337557380@qq.com"
 
 cha=`git status -s`
 upd=`expr length "$cha"`
