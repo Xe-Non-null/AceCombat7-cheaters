@@ -2,6 +2,10 @@
 
 | name | steam URL |
 | ------ | ------ |
+| Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
+| Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
+| Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
+| 习近平 | https://steamcommunity.com/profiles/76561199438934867 |
 | appl | https://steamcommunity.com/profiles/76561198081430238 |
 | run | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
@@ -37,4 +41,3 @@
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
 | Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
-| Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
