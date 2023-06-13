@@ -2,7 +2,6 @@
 
 | name | steam URL |
 | ------ | ------ |
-| FUCK YOU NOOB PILOT | https://steamcommunity.com/profiles/76561198979114041 |
 | appl | https://steamcommunity.com/profiles/76561198081430238 |
 | run | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
@@ -39,4 +38,3 @@
 | Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
 | Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
-| 原罪学者 | https://steamcommunity.com/profiles/76561199025794488 |
