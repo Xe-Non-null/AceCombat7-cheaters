@@ -1,4 +1,4 @@
-git config user.name "Doraemon"
+git config user.name "337557380"
 git config user.email "337557380@qq.com"
 
 cha=`git status -s`
