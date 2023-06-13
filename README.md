@@ -3,12 +3,12 @@
 | name | steam URL |
 | ------ | ------ |
 | 3D | https://steamcommunity.com/profiles/76561198818703363 |
-| Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
-| JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
 | 习近平 | https://steamcommunity.com/profiles/76561199438934867 |
+| Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
+| JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
 | appl | https://steamcommunity.com/profiles/76561198081430238 |
 | run | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
