@@ -39,4 +39,3 @@
 | Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
 | Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
-| Erica | https://steamcommunity.com/profiles/76561198312026501 |
