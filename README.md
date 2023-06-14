@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| YMB_WarLord | https://steamcommunity.com/profiles/76561199501593849 |
 | 3D | https://steamcommunity.com/profiles/76561198818703363 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
