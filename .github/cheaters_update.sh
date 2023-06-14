@@ -15,7 +15,7 @@ do
 done
 echo ${cheaters_Name[*]}
 
-echo '# AC7 cheaters
+echo '# AceCombat7 cheaters
 
 | name | steam URL |
 | ------ | ------ |' > README.md
