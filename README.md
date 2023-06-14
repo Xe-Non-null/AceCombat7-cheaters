@@ -1,4 +1,4 @@
-# AC7 cheaters
+# AceCombat7 cheaters
 
 | name | steam URL |
 | ------ | ------ |
