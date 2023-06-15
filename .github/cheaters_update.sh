@@ -23,7 +23,7 @@ echo '# AceCombat7 cheaters
 j=0
 while (($j<i))
 do
-	echo '| '${cheaters_Name[$j]}' | https://steamcommunity.com/'${cheaters_ID[$j]}' |' >> README.md
+	echo '| '${cheaters_Name[$j]}' | https://steamcommunity.com/profiles/'${cheaters_ID[$j]}' |' >> README.md
 	let 'j++'
 done
 
