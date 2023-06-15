@@ -10,6 +10,7 @@
 | 习近平 | https://steamcommunity.com/profiles/76561199438934867 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
+| Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
 | CPLA | https://steamcommunity.com/profiles/76561199390199106 |
 | pqoo71 | https://steamcommunity.com/profiles/76561199310017870 |
 | armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
