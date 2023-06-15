@@ -9,7 +9,7 @@ cheaters_Name=()
 i=0
 for cheater in ${cheaters_ID[*]}
 do
-	Name=`curl -L https://steamcommunity.com/$cheater |grep 'class="actual_persona_name"' |head -1 |awk -F'>|<' '{print $3}'`
+	Name=`curl -L https://steamcommunity.com/profiles/$cheater |grep 'class="actual_persona_name"' |head -1 |awk -F'>|<' '{print $3}'`
 	cheaters_Name[$i]=${Name/|/&#124;}
 	let 'i++'
 done
@@ -23,7 +23,7 @@ echo '# AceCombat7 cheaters
 j=0
 while (($j<i))
 do
-	echo '| '${cheaters_Name[$j]}' | https://steamcommunity.com/profiles/'${cheaters_ID[$j]}' |' >> README.md
+	echo '| '${cheaters_Name[$j]}' | https://steamcommunity.com/'${cheaters_ID[$j]}' |' >> README.md
 	let 'j++'
 done
 
