@@ -2,8 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-|  | https://steamcommunity.com/profiles/Sleadr |
-| toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
+| Skyle@der | https://steamcommunity.com/id/Sleadr |
 | YMB_WarLord | https://steamcommunity.com/profiles/76561199501593849 |
 | 3D | https://steamcommunity.com/profiles/76561198818703363 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
