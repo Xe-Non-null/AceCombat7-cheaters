@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| DagZede | https://steamcommunity.com/id/DagZede/ |
+|  | https://steamcommunity.com/profiles/776561198127073615 |
 | seanpowellonemanband | https://steamcommunity.com/profiles/76561198854660782 |
 | toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
 | Skyle@der | https://steamcommunity.com/id/Sleadr |
