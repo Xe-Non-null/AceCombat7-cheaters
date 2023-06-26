@@ -52,7 +52,7 @@
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
 | Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
-| 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
+|  | https://steamcommunity.com/profiles/76561199214277508 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
