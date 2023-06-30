@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
 | Bob Bass | https://steamcommunity.com/profiles/76561198036859894 |
 | canimad | https://steamcommunity.com/profiles/76561199361973029 |
 | PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
