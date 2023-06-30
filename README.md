@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
 | Bob Bass | https://steamcommunity.com/profiles/76561198036859894 |
