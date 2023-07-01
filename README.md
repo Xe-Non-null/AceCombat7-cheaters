@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| The Usurper | https://steamcommunity.com/profiles/76561199514372823 |
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
