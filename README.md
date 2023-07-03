@@ -2,6 +2,8 @@
 
 | name | steam URL |
 | ------ | ------ |
+| Bc I am good I'm very good! | https://steamcommunity.com/profiles/76561199501593849 |
+| thebob787b | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
 | Katherina Von Texas | https://steamcommunity.com/profiles/76561199410767018 |
 | The Usurper | https://steamcommunity.com/profiles/76561199514372823 |
@@ -17,7 +19,6 @@
 | toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
 | Domehead | https://steamcommunity.com/profiles/76561198012246719 |
 | Skyle@der | https://steamcommunity.com/profiles/76561198829863126 |
-| Bc I am good I'm very good! | https://steamcommunity.com/profiles/76561199501593849 |
 | 3D | https://steamcommunity.com/profiles/76561198818703363 |
 | 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
 | 习近平 | https://steamcommunity.com/profiles/76561199438934867 |
