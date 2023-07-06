@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| Bc I am good I'm very good! | https://steamcommunity.com/profiles/76561199501593849 |
+| YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
 | thebob787b | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
 | Katherina Von Texas | https://steamcommunity.com/profiles/76561199410767018 |
