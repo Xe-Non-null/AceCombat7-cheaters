@@ -27,7 +27,7 @@
 | 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
 | Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
 | CPLA | https://steamcommunity.com/profiles/76561199390199106 |
-| pqoo71 | https://steamcommunity.com/profiles/76561199310017870 |
+| JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
 | armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
