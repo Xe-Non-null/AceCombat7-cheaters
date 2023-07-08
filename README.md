@@ -29,7 +29,7 @@
 | Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
 | CPLA | https://steamcommunity.com/profiles/76561199390199106 |
 | JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
-| /aceg/ armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
+| armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
 | JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
