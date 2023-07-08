@@ -3,6 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
+| Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | thebob787b | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
 | Katherina Von Texas | https://steamcommunity.com/profiles/76561199410767018 |
