@@ -3,6 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
+| 晨中鱼 | https://steamcommunity.com/profiles/76561199390531053 |
 | 公主的青鸟 | https://steamcommunity.com/profiles/76561199350109238 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
