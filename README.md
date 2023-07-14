@@ -12,7 +12,7 @@
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
 | Katherina Von Texas | https://steamcommunity.com/profiles/76561199410767018 |
-|  | https://steamcommunity.com/profiles/76561199514372823 |
+| AESIR &#124; Kronos | https://steamcommunity.com/profiles/76561199514372823 |
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
@@ -25,7 +25,7 @@
 | toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
 | Domehead | https://steamcommunity.com/profiles/76561198012246719 |
 | Skyle@der | https://steamcommunity.com/profiles/76561198829863126 |
-| 3D | https://steamcommunity.com/profiles/76561198818703363 |
+|  | https://steamcommunity.com/profiles/76561198818703363 |
 | 天童アリス | https://steamcommunity.com/profiles/76561199438934867 |
 | 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
@@ -33,7 +33,7 @@
 | 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
 | Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
 | 1654391949 | https://steamcommunity.com/profiles/76561199071839304 |
-| CPLA | https://steamcommunity.com/profiles/76561199390199106 |
+|  | https://steamcommunity.com/profiles/76561199390199106 |
 | JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
 | armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
