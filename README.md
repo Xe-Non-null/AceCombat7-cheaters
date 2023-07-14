@@ -21,11 +21,11 @@
 | canimad | https://steamcommunity.com/profiles/76561199361973029 |
 | PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
 | DagZede | https://steamcommunity.com/profiles/76561198127073615 |
-| seanpowellonemanband | https://steamcommunity.com/profiles/76561198854660782 |
+|  | https://steamcommunity.com/profiles/76561198854660782 |
 | toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
 | Domehead | https://steamcommunity.com/profiles/76561198012246719 |
 | Skyle@der | https://steamcommunity.com/profiles/76561198829863126 |
-|  | https://steamcommunity.com/profiles/76561198818703363 |
+| 3D | https://steamcommunity.com/profiles/76561198818703363 |
 | 天童アリス | https://steamcommunity.com/profiles/76561199438934867 |
 | 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
@@ -33,7 +33,7 @@
 | 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
 | Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
 | 1654391949 | https://steamcommunity.com/profiles/76561199071839304 |
-|  | https://steamcommunity.com/profiles/76561199390199106 |
+| CPLA | https://steamcommunity.com/profiles/76561199390199106 |
 | JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
 | armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
