@@ -4,7 +4,7 @@
 | ------ | ------ |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
-| 没有加密他妈的中国第 | https://steamcommunity.com/profiles/76561199154859343 |
+| 中国空龙杀死控制器玩 | https://steamcommunity.com/profiles/76561199154859343 |
 | 晨中鱼 | https://steamcommunity.com/profiles/76561199390531053 |
 | 公主的青鸟 | https://steamcommunity.com/profiles/76561199350109238 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
@@ -36,7 +36,7 @@
 | 1654391949 | https://steamcommunity.com/profiles/76561199071839304 |
 | CPLA | https://steamcommunity.com/profiles/76561199390199106 |
 | JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
-| armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
+| /aceg/ armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
 | JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
