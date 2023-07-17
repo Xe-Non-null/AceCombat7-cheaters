@@ -4,12 +4,12 @@
 | ------ | ------ |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
-| Soul:003 | https://steamcommunity.com/profiles/76561199154859343 |
+| KongLong | https://steamcommunity.com/profiles/76561199154859343 |
 | 晨中鱼 | https://steamcommunity.com/profiles/76561199390531053 |
 | 公主的青鸟 | https://steamcommunity.com/profiles/76561199350109238 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
-| Elite Team S.W | https://steamcommunity.com/profiles/76561198929962823 |
+| InfinityUSEA | https://steamcommunity.com/profiles/76561198929962823 |
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
 | Katherina Von Texas | https://steamcommunity.com/profiles/76561199410767018 |
