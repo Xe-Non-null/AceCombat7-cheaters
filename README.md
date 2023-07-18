@@ -18,6 +18,7 @@
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
+| Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
 | Bob Bass | https://steamcommunity.com/profiles/76561198036859894 |
 | canimad | https://steamcommunity.com/profiles/76561199361973029 |
 | PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
@@ -32,7 +33,6 @@
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
 | 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
-| Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
 | 1654391949 | https://steamcommunity.com/profiles/76561199071839304 |
 | CPLA | https://steamcommunity.com/profiles/76561199390199106 |
 | JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
