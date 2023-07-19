@@ -5,7 +5,7 @@
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
 | insidarks | https://steamcommunity.com/profiles/76561198124493664 |
 | aaaaario | https://steamcommunity.com/profiles/76561199036761417 |
-| IT's TIME | https://steamcommunity.com/profiles/76561198109046260 |
+| 76561198109046260 | https://steamcommunity.com/profiles/76561198109046260 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
 | 01827451098 | https://steamcommunity.com/profiles/76561199154859343 |
 | 晨中鱼 | https://steamcommunity.com/profiles/76561199390531053 |
@@ -38,7 +38,7 @@
 | 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
 | 1654391949 | https://steamcommunity.com/profiles/76561199071839304 |
 | CPLA | https://steamcommunity.com/profiles/76561199390199106 |
-| JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
+|  | https://steamcommunity.com/profiles/76561199310017870 |
 | armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
