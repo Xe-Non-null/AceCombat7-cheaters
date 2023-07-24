@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| Soul:003 | https://steamcommunity.com/profiles/76561199154859343 |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | ПИРОЖОК БРОКЕН | https://steamcommunity.com/profiles/76561198076214633 |
@@ -9,7 +10,6 @@
 | aaaaario | https://steamcommunity.com/profiles/76561199036761417 |
 | IT's TIME | https://steamcommunity.com/profiles/76561198109046260 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
-| Soul:003 | https://steamcommunity.com/profiles/76561199154859343 |
 | 晨中鱼 | https://steamcommunity.com/profiles/76561199390531053 |
 | 公主的青鸟 | https://steamcommunity.com/profiles/76561199350109238 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
