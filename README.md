@@ -4,11 +4,11 @@
 | ------ | ------ |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
-|  | https://steamcommunity.com/profiles/76561198076214633 |
+| ПИРОЖОК БРОКЕН | https://steamcommunity.com/profiles/76561198076214633 |
 | insidarks | https://steamcommunity.com/profiles/76561198124493664 |
 | aaaaario | https://steamcommunity.com/profiles/76561199036761417 |
 | IT's TIME | https://steamcommunity.com/profiles/76561198109046260 |
-|  | https://steamcommunity.com/profiles/76561199168111744 |
+| 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
 | 晨中鱼 | https://steamcommunity.com/profiles/76561199390531053 |
 | 公主的青鸟 | https://steamcommunity.com/profiles/76561199350109238 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
@@ -17,12 +17,12 @@
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
 | Katherina Von Texas | https://steamcommunity.com/profiles/76561199410767018 |
-|  | https://steamcommunity.com/profiles/76561199514372823 |
+| AESIR &#124; Kronos | https://steamcommunity.com/profiles/76561199514372823 |
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
-|  | https://steamcommunity.com/profiles/76561199433034628 |
+| Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
 | Bob Bass | https://steamcommunity.com/profiles/76561198036859894 |
 | canimad | https://steamcommunity.com/profiles/76561199361973029 |
 | PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
@@ -43,7 +43,7 @@
 | armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
-| 76561198030697690 | https://steamcommunity.com/profiles/76561198030697690 |
+| JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
 | 处处吻✈ | https://steamcommunity.com/profiles/76561198980204295 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
