@@ -2,7 +2,6 @@
 
 | name | steam URL |
 | ------ | ------ |
-| Soul:003 | https://steamcommunity.com/profiles/76561199154859343 |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | ПИРОЖОК БРОКЕН | https://steamcommunity.com/profiles/76561198076214633 |
