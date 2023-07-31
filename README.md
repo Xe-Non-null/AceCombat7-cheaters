@@ -3,6 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
+| asennad | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | ДЫМНЫЙ ШИШ | https://steamcommunity.com/profiles/76561198076214633 |
 | insidarks | https://steamcommunity.com/profiles/76561198124493664 |
