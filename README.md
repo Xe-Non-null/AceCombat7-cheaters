@@ -4,7 +4,7 @@
 | ------ | ------ |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
 | harusenashu0122 | https://steamcommunity.com/profiles/76561199074107604 |
-| asennad | https://steamcommunity.com/profiles/76561199465912684 |
+|  | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | ДЫМНЫЙ ШИШ | https://steamcommunity.com/profiles/76561198076214633 |
 | insidarks | https://steamcommunity.com/profiles/76561198124493664 |
@@ -17,8 +17,8 @@
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | Elite Team S.W | https://steamcommunity.com/profiles/76561198929962823 |
-| GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
-| Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
+|  | https://steamcommunity.com/profiles/76561199507205763 |
+| 76561199363114608 | https://steamcommunity.com/profiles/76561199363114608 |
 | Katherina Von Texas | https://steamcommunity.com/profiles/76561199410767018 |
 | AESIR &#124; Kronos | https://steamcommunity.com/profiles/76561199514372823 |
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
@@ -31,14 +31,14 @@
 | PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
 | DagZede | https://steamcommunity.com/profiles/76561198127073615 |
 | seanpowellonemanband | https://steamcommunity.com/profiles/76561198854660782 |
-| toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
+|  | https://steamcommunity.com/profiles/76561199378969003 |
 | Domehead | https://steamcommunity.com/profiles/76561198012246719 |
 | Skyle@der | https://steamcommunity.com/profiles/76561198829863126 |
 | 3D | https://steamcommunity.com/profiles/76561198818703363 |
 | 高咲侑 | https://steamcommunity.com/profiles/76561199438934867 |
 | 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
-| Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
+|  | https://steamcommunity.com/profiles/76561198223744704 |
 | 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
 | 1654391949 | https://steamcommunity.com/profiles/76561199071839304 |
 | CPLA | https://steamcommunity.com/profiles/76561199390199106 |
