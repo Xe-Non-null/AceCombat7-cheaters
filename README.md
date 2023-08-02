@@ -3,6 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
+| Cadim | https://steamcommunity.com/profiles/76561198136279568 |
 | harusenashu0122 | https://steamcommunity.com/profiles/76561199074107604 |
 | asennad | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
