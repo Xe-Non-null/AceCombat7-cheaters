@@ -9,11 +9,11 @@
 | NoIRRe | https://steamcommunity.com/profiles/76561198384137308 |
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
 | Cadim | https://steamcommunity.com/profiles/76561198136279568 |
-|  | https://steamcommunity.com/profiles/76561199074107604 |
+| harusenashu0122 | https://steamcommunity.com/profiles/76561199074107604 |
 | Gegul | https://steamcommunity.com/profiles/76561198971055164 |
 | asennad | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
-|  | https://steamcommunity.com/profiles/76561198076214633 |
+| ЦЫГАНСКИЕ ЗАКУСКИ | https://steamcommunity.com/profiles/76561198076214633 |
 | unknown user | https://steamcommunity.com/profiles/76561198124493664 |
 | spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
 | aaaaario | https://steamcommunity.com/profiles/76561199036761417 |
