@@ -28,7 +28,7 @@
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
 | Katherina | https://steamcommunity.com/profiles/76561199410767018 |
-| AESIR &#124; Kronos | https://steamcommunity.com/profiles/76561199514372823 |
+| Cedaz ツ | https://steamcommunity.com/profiles/76561199514372823 |
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
