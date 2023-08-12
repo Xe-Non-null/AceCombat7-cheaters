@@ -2,8 +2,8 @@
 
 | name | steam URL |
 | ------ | ------ |
-| JIUZIBENG | https://steamcommunity.com/profiles/76561199230152151 |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
+| 󰀧EE󰀧 | https://steamcommunity.com/profiles/76561198386006699 |
 | 3078138825 | https://steamcommunity.com/profiles/76561199535817299 |
 | KuDing | https://steamcommunity.com/profiles/76561198260965559 |
 | Kel1522 | https://steamcommunity.com/profiles/76561199005498017 |
