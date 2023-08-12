@@ -34,13 +34,13 @@
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
-| 76561199433034628 | https://steamcommunity.com/profiles/76561199433034628 |
+| Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
 | Bob Bass | https://steamcommunity.com/profiles/76561198036859894 |
 | canimad | https://steamcommunity.com/profiles/76561199361973029 |
 | PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
 | DagZede | https://steamcommunity.com/profiles/76561198127073615 |
 | seanpowellonemanband | https://steamcommunity.com/profiles/76561198854660782 |
-|  | https://steamcommunity.com/profiles/76561199378969003 |
+| toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
 | Domehead | https://steamcommunity.com/profiles/76561198012246719 |
 | Skyle@der | https://steamcommunity.com/profiles/76561198829863126 |
 | 3D | https://steamcommunity.com/profiles/76561198818703363 |
