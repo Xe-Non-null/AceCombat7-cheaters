@@ -36,7 +36,7 @@
 | Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
 | Bob Bass | https://steamcommunity.com/profiles/76561198036859894 |
 | canimad | https://steamcommunity.com/profiles/76561199361973029 |
-| 76561199216430196 | https://steamcommunity.com/profiles/76561199216430196 |
+| PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
 | DagZede | https://steamcommunity.com/profiles/76561198127073615 |
 | seanpowellonemanband | https://steamcommunity.com/profiles/76561198854660782 |
 | toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
@@ -46,7 +46,7 @@
 | 錦仙 . 優曇華院 `个力川 | https://steamcommunity.com/profiles/76561199438934867 |
 | 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
-| 76561198223744704 | https://steamcommunity.com/profiles/76561198223744704 |
+| Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
 | 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
 | 1654391949 | https://steamcommunity.com/profiles/76561199071839304 |
 | CPLA | https://steamcommunity.com/profiles/76561199390199106 |
