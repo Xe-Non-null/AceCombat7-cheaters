@@ -3,22 +3,17 @@
 | name | steam URL |
 | ------ | ------ |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
+| ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
 | 󰀧EE󰀧 | https://steamcommunity.com/profiles/76561198386006699 |
 | 3078138825 | https://steamcommunity.com/profiles/76561199535817299 |
 | KuDing | https://steamcommunity.com/profiles/76561198260965559 |
-| Kel1522 | https://steamcommunity.com/profiles/76561199005498017 |
 | OnePunchMan69 | https://steamcommunity.com/profiles/76561198177980518 |
 | NoIRRe | https://steamcommunity.com/profiles/76561198384137308 |
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
-| Cadim | https://steamcommunity.com/profiles/76561198136279568 |
-| harusenashu0122 | https://steamcommunity.com/profiles/76561199074107604 |
-| Gegul | https://steamcommunity.com/profiles/76561198971055164 |
 | asennad | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | ЦЫГАНСКИЕ ЗАКУСКИ | https://steamcommunity.com/profiles/76561198076214633 |
 | unknown user | https://steamcommunity.com/profiles/76561198124493664 |
-| spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
-| TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
 | IT's TIME | https://steamcommunity.com/profiles/76561198109046260 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
 | 晨中鱼 | https://steamcommunity.com/profiles/76561199390531053 |
@@ -27,7 +22,6 @@
 | SamanthaUSEA | https://steamcommunity.com/profiles/76561198929962823 |
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
-| Katherina | https://steamcommunity.com/profiles/76561199410767018 |
 | Cedaz ツ | https://steamcommunity.com/profiles/76561199514372823 |
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
