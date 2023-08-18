@@ -16,7 +16,7 @@
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
 | asennad | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
-| ЦЫГАНСКИЕ ЗАКУСКИ | https://steamcommunity.com/profiles/76561198076214633 |
+| КАПУСТНЫЙ АД | https://steamcommunity.com/profiles/76561198076214633 |
 | unknown user | https://steamcommunity.com/profiles/76561198124493664 |
 | IT's TIME | https://steamcommunity.com/profiles/76561198109046260 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
