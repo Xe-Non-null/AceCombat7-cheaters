@@ -3,6 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
+| LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | Lightning &quot;Tempest&quot; Rafales | https://steamcommunity.com/profiles/76561198260897999 |
 | ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
 | 󰀧EE󰀧 | https://steamcommunity.com/profiles/76561198386006699 |
@@ -81,7 +82,6 @@
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
-| LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
 | Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
