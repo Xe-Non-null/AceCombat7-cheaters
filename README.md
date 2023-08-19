@@ -8,9 +8,7 @@
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | Lightning &quot;Tempest&quot; Rafales | https://steamcommunity.com/profiles/76561198260897999 |
 | ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
-| 󰀧EE󰀧 | https://steamcommunity.com/profiles/76561198386006699 |
 | 3078138825 | https://steamcommunity.com/profiles/76561199535817299 |
-| KuDing | https://steamcommunity.com/profiles/76561198260965559 |
 | OnePunchMan69 | https://steamcommunity.com/profiles/76561198177980518 |
 | NoIRRe | https://steamcommunity.com/profiles/76561198384137308 |
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
@@ -18,9 +16,7 @@
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | КАПУСТНЫЙ АД | https://steamcommunity.com/profiles/76561198076214633 |
 | unknown user | https://steamcommunity.com/profiles/76561198124493664 |
-| IT's TIME | https://steamcommunity.com/profiles/76561198109046260 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
-| 晨中鱼 | https://steamcommunity.com/profiles/76561199390531053 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | SamanthaUSEA | https://steamcommunity.com/profiles/76561198929962823 |
@@ -71,7 +67,6 @@
 | WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
 | ATHOOD | https://steamcommunity.com/profiles/76561198101337488 |
 | 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
-| ^&#124;^ | https://steamcommunity.com/profiles/76561199066388594 |
 | &lt;font color=rpg#FF3030&gt;Vigoss | https://steamcommunity.com/profiles/76561198078057512 |
 | 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
 | 印度人 | https://steamcommunity.com/profiles/76561199032447430 |
