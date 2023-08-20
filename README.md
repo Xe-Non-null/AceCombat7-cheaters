@@ -3,7 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | RInimadI | https://steamcommunity.com/profiles/76561199361973029 |
-| putin | https://steamcommunity.com/profiles/76561199304050583 |
+| WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
 | 夕阳武士与狗， | https://steamcommunity.com/profiles/76561198294378412 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
