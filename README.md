@@ -17,7 +17,7 @@
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | КАПУСТНЫЙ АД | https://steamcommunity.com/profiles/76561198076214633 |
 | unknown user | https://steamcommunity.com/profiles/76561198124493664 |
-|  | https://steamcommunity.com/profiles/76561199168111744 |
+| 76561199168111744 | https://steamcommunity.com/profiles/76561199168111744 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | SamanthaUSEA | https://steamcommunity.com/profiles/76561198929962823 |
@@ -38,7 +38,7 @@
 | Skyle@der | https://steamcommunity.com/profiles/76561198829863126 |
 | 3D | https://steamcommunity.com/profiles/76561198818703363 |
 | 錦仙 . 優曇華院 `个力川 | https://steamcommunity.com/profiles/76561199438934867 |
-| 76561198281111612 | https://steamcommunity.com/profiles/76561198281111612 |
+| 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
 | 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
