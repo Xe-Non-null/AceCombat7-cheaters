@@ -7,7 +7,7 @@
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
 | 夕阳武士与狗， | https://steamcommunity.com/profiles/76561198294378412 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
-| 76561198260897999 | https://steamcommunity.com/profiles/76561198260897999 |
+| Lightning &quot;Tempest&quot; Rafales | https://steamcommunity.com/profiles/76561198260897999 |
 | ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
 | 3078138825 | https://steamcommunity.com/profiles/76561199535817299 |
 | OnePunchMan69 | https://steamcommunity.com/profiles/76561198177980518 |
@@ -17,7 +17,7 @@
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | КАПУСТНЫЙ АД | https://steamcommunity.com/profiles/76561198076214633 |
 | unknown user | https://steamcommunity.com/profiles/76561198124493664 |
-| 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
+|  | https://steamcommunity.com/profiles/76561199168111744 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | SamanthaUSEA | https://steamcommunity.com/profiles/76561198929962823 |
@@ -38,7 +38,7 @@
 | Skyle@der | https://steamcommunity.com/profiles/76561198829863126 |
 | 3D | https://steamcommunity.com/profiles/76561198818703363 |
 | 錦仙 . 優曇華院 `个力川 | https://steamcommunity.com/profiles/76561199438934867 |
-| 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
+| 76561198281111612 | https://steamcommunity.com/profiles/76561198281111612 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
 | 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
@@ -46,7 +46,7 @@
 | CPLA | https://steamcommunity.com/profiles/76561199390199106 |
 | JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
 | armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
-| 76561199412285976 | https://steamcommunity.com/profiles/76561199412285976 |
+| Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
 | JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
@@ -63,7 +63,7 @@
 | 老七 | https://steamcommunity.com/profiles/76561199070000800 |
 | you kick me cuz ure bad | https://steamcommunity.com/profiles/76561199086244180 |
 | Radder | https://steamcommunity.com/profiles/76561198084874424 |
-| 76561198108197134 | https://steamcommunity.com/profiles/76561198108197134 |
+| ..&#124;.. | https://steamcommunity.com/profiles/76561198108197134 |
 | WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
 | ATHOOD | https://steamcommunity.com/profiles/76561198101337488 |
 | 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
