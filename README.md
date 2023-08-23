@@ -5,25 +5,23 @@
 | RInimadI | https://steamcommunity.com/profiles/76561199361973029 |
 | WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
+| xiaoniu9779 | https://steamcommunity.com/profiles/76561199136741664 |
 | 夕阳武士与狗， | https://steamcommunity.com/profiles/76561198294378412 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | Lightning &quot;Tempest&quot; Rafales | https://steamcommunity.com/profiles/76561198260897999 |
 | ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
 | 3078138825 | https://steamcommunity.com/profiles/76561199535817299 |
 | OnePunchMan69 | https://steamcommunity.com/profiles/76561198177980518 |
-| NoIRRe | https://steamcommunity.com/profiles/76561198384137308 |
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
 | asennad | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | КАПУСТНЫЙ АД | https://steamcommunity.com/profiles/76561198076214633 |
-| unknown user | https://steamcommunity.com/profiles/76561198124493664 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | SamanthaUSEA | https://steamcommunity.com/profiles/76561198929962823 |
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
-| Cedaz ツ | https://steamcommunity.com/profiles/76561199514372823 |
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
