@@ -12,17 +12,17 @@
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | Lightning &quot;Tempest&quot; Rafales | https://steamcommunity.com/profiles/76561198260897999 |
 | ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
-| 3078138825 | https://steamcommunity.com/profiles/76561199535817299 |
+| 76561199535817299 | https://steamcommunity.com/profiles/76561199535817299 |
 | OnePunchMan69 | https://steamcommunity.com/profiles/76561198177980518 |
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
-| asennad | https://steamcommunity.com/profiles/76561199465912684 |
+|  | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | БЕДРО ЛЕНИНА | https://steamcommunity.com/profiles/76561198076214633 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
-| GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
-| Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
+|  | https://steamcommunity.com/profiles/76561199507205763 |
+|  | https://steamcommunity.com/profiles/76561199363114608 |
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
@@ -32,7 +32,7 @@
 | PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
 | DagZede | https://steamcommunity.com/profiles/76561198127073615 |
 | seanpowellonemanband | https://steamcommunity.com/profiles/76561198854660782 |
-| toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
+|  | https://steamcommunity.com/profiles/76561199378969003 |
 | Domehead | https://steamcommunity.com/profiles/76561198012246719 |
 | Skyle@der | https://steamcommunity.com/profiles/76561198829863126 |
 | 3D | https://steamcommunity.com/profiles/76561198818703363 |
