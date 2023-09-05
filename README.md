@@ -14,7 +14,7 @@
 | ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
 | 3078138825 | https://steamcommunity.com/profiles/76561199535817299 |
 | OnePunchMan69 | https://steamcommunity.com/profiles/76561198177980518 |
-| Storm | https://steamcommunity.com/profiles/76561198917360011 |
+|  | https://steamcommunity.com/profiles/76561198917360011 |
 | asennad | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | БЕДРО ЛЕНИНА | https://steamcommunity.com/profiles/76561198076214633 |
@@ -34,7 +34,7 @@
 | seanpowellonemanband | https://steamcommunity.com/profiles/76561198854660782 |
 | toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
 | Domehead | https://steamcommunity.com/profiles/76561198012246719 |
-|  | https://steamcommunity.com/profiles/76561198829863126 |
+| Skyle@der | https://steamcommunity.com/profiles/76561198829863126 |
 | 3D | https://steamcommunity.com/profiles/76561198818703363 |
 | 錦仙 . 優曇華院 `个力川 | https://steamcommunity.com/profiles/76561199438934867 |
 | 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
@@ -79,6 +79,6 @@
 | 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
-| Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
+|  | https://steamcommunity.com/profiles/76561198161141089 |
 | Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
 | GT-Force | https://steamcommunity.com/profiles/76561198027532793 |
