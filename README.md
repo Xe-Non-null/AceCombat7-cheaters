@@ -23,7 +23,7 @@
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
-|  | https://steamcommunity.com/profiles/76561198396903167 |
+| La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
@@ -49,7 +49,7 @@
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
 | JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
-|  | https://steamcommunity.com/profiles/76561198980204295 |
+| 处处吻✈ | https://steamcommunity.com/profiles/76561198980204295 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
 | zxzzz | https://steamcommunity.com/profiles/76561198081430238 |
 | run | https://steamcommunity.com/profiles/76561199048027117 |
@@ -60,7 +60,7 @@
 | 九_州 | https://steamcommunity.com/profiles/76561198973679329 |
 | FireBrand | https://steamcommunity.com/profiles/76561198026289985 |
 | 老七 | https://steamcommunity.com/profiles/76561199070000800 |
-| you kick me cuz ure bad | https://steamcommunity.com/profiles/76561199086244180 |
+|  | https://steamcommunity.com/profiles/76561199086244180 |
 | Radder | https://steamcommunity.com/profiles/76561198084874424 |
 | ..&#124;.. | https://steamcommunity.com/profiles/76561198108197134 |
 | WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
