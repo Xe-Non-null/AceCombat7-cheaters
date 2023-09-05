@@ -17,7 +17,7 @@
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
 | asennad | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
-| БЕДРО ЛЕНИНА | https://steamcommunity.com/profiles/76561198076214633 |
+|  | https://steamcommunity.com/profiles/76561198076214633 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
@@ -64,13 +64,13 @@
 | Radder | https://steamcommunity.com/profiles/76561198084874424 |
 | ..&#124;.. | https://steamcommunity.com/profiles/76561198108197134 |
 | WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
-|  | https://steamcommunity.com/profiles/76561198101337488 |
+| ATHOOD | https://steamcommunity.com/profiles/76561198101337488 |
 | 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
 | &lt;font color=rpg#FF3030&gt;Vigoss | https://steamcommunity.com/profiles/76561198078057512 |
 | 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
 | 印度人 | https://steamcommunity.com/profiles/76561199032447430 |
 | 网上比街上热闹 | https://steamcommunity.com/profiles/76561199028490431 |
-| GUOZI ! | https://steamcommunity.com/profiles/76561198445457868 |
+|  | https://steamcommunity.com/profiles/76561198445457868 |
 | 啊对对对 | https://steamcommunity.com/profiles/76561198368034387 |
 | 葫芦娃 | https://steamcommunity.com/profiles/76561199116012716 |
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
