@@ -11,7 +11,7 @@
 | 夕阳武士与狗， | https://steamcommunity.com/profiles/76561198294378412 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | Lightning &quot;Tempest&quot; Rafales | https://steamcommunity.com/profiles/76561198260897999 |
-|  | https://steamcommunity.com/profiles/76561198982424786 |
+| ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
 | 3078138825 | https://steamcommunity.com/profiles/76561199535817299 |
 | OnePunchMan69 | https://steamcommunity.com/profiles/76561198177980518 |
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
@@ -28,7 +28,7 @@
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
 | Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
-| Bob Bass | https://steamcommunity.com/profiles/76561198036859894 |
+|  | https://steamcommunity.com/profiles/76561198036859894 |
 | PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
 | DagZede | https://steamcommunity.com/profiles/76561198127073615 |
 | seanpowellonemanband | https://steamcommunity.com/profiles/76561198854660782 |
