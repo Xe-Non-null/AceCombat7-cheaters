@@ -5,6 +5,8 @@
 | RInimadI | https://steamcommunity.com/profiles/76561199361973029 |
 | WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
+| Piccolo | https://steamcommunity.com/profiles/76561198817889927 |
+| Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
 | Hurucan | https://steamcommunity.com/profiles/76561199040370343 |
 | 제11전투비행단 | https://steamcommunity.com/profiles/76561198963991931 |
 | spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
