@@ -24,8 +24,8 @@
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
-|  | https://steamcommunity.com/profiles/76561199507205763 |
-|  | https://steamcommunity.com/profiles/76561199363114608 |
+| GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
+| Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
