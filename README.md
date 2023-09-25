@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| GBT21732 | https://steamcommunity.com/profiles/76561198075692143 |
 | Piccolo | https://steamcommunity.com/profiles/76561198817889927 |
 | RInimadI | https://steamcommunity.com/profiles/76561199361973029 |
 | WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
