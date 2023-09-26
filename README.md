@@ -8,7 +8,7 @@
 | WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
 | 德皇人 | https://steamcommunity.com/profiles/76561199400333272 |
-|  | https://steamcommunity.com/profiles/76561198953392478 |
+| 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
 | Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
 | TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
 | Tech_Monster | https://steamcommunity.com/profiles/76561198963991931 |
@@ -19,7 +19,7 @@
 | 夕阳武士与狗， | https://steamcommunity.com/profiles/76561198294378412 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | Lightning &quot;Tempest&quot; Rafales | https://steamcommunity.com/profiles/76561198260897999 |
-| 76561198982424786 | https://steamcommunity.com/profiles/76561198982424786 |
+| ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
 | 3078138825 | https://steamcommunity.com/profiles/76561199535817299 |
 | OnePunchMan69 | https://steamcommunity.com/profiles/76561198177980518 |
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
@@ -27,7 +27,7 @@
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | LARGE 琊太台詪の只在い唨場人偌 | https://steamcommunity.com/profiles/76561198076214633 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
-| 76561198301721995 | https://steamcommunity.com/profiles/76561198301721995 |
+| Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
