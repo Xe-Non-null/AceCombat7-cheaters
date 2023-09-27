@@ -31,7 +31,7 @@
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
-|  | https://steamcommunity.com/profiles/76561198396903167 |
+| La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
@@ -50,7 +50,7 @@
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
 | 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
 | 1654391949 | https://steamcommunity.com/profiles/76561199071839304 |
-|  | https://steamcommunity.com/profiles/76561199390199106 |
+| CPLA | https://steamcommunity.com/profiles/76561199390199106 |
 | JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
 | armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
