@@ -55,7 +55,7 @@
 | armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
-|  | https://steamcommunity.com/profiles/76561198030697690 |
+| JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
 | 处处吻✈ | https://steamcommunity.com/profiles/76561198980204295 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
@@ -82,7 +82,7 @@
 | 啊对对对 | https://steamcommunity.com/profiles/76561198368034387 |
 | 葫芦娃 | https://steamcommunity.com/profiles/76561199116012716 |
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
-|  | https://steamcommunity.com/profiles/76561199201981441 |
+| Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
