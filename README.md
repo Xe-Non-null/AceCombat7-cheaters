@@ -4,7 +4,7 @@
 | ------ | ------ |
 | GBT21732 | https://steamcommunity.com/profiles/76561198075692143 |
 | Piccolo | https://steamcommunity.com/profiles/76561198817889927 |
-| RInimadI | https://steamcommunity.com/profiles/76561199361973029 |
+| tameide | https://steamcommunity.com/profiles/76561199361973029 |
 | WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
 | 德皇人 | https://steamcommunity.com/profiles/76561199400333272 |
