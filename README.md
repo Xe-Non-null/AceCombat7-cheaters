@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| しらけるチーズ | https://steamcommunity.com/profiles/76561198301029341 |
+| ああ!ジャン・ルイがやられた! | https://steamcommunity.com/profiles/76561198301029341 |
 | 小智避开来 | https://steamcommunity.com/profiles/76561198075692143 |
 | Piccolo | https://steamcommunity.com/profiles/76561198817889927 |
 | tameide | https://steamcommunity.com/profiles/76561199361973029 |
