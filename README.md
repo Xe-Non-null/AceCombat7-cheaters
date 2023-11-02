@@ -89,7 +89,6 @@
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
-| Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
 | Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
 | GT-Force | https://steamcommunity.com/profiles/76561198027532793 |
