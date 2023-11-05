@@ -40,7 +40,7 @@
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
 | Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
-| Bob Bass | https://steamcommunity.com/profiles/76561198036859894 |
+| Divinity | https://steamcommunity.com/profiles/76561198036859894 |
 | PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
 | DagZede | https://steamcommunity.com/profiles/76561198127073615 |
 | seanpowellonemanband | https://steamcommunity.com/profiles/76561198854660782 |
