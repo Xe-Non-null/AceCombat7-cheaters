@@ -62,6 +62,8 @@
 | JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
 | armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
+| Tar | https://steamcommunity.com/profiles/76561198990544647 |
+| iRatman_ | https://steamcommunity.com/profiles/76561198092502120 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
 | JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
