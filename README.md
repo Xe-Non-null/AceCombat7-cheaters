@@ -4,7 +4,7 @@
 | ------ | ------ |
 | Musgus | https://steamcommunity.com/profiles/76561198859884192 |
 | Scorpion King | https://steamcommunity.com/profiles/76561198038827316 |
-| Dipper | https://steamcommunity.com/profiles/76561198398157745 |
+| Suzumiya Haruka | https://steamcommunity.com/profiles/76561198398157745 |
 | (PYG) play your game | https://steamcommunity.com/profiles/76561199227155475 |
 | 风卷尘生 | https://steamcommunity.com/profiles/76561199474926894 |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
