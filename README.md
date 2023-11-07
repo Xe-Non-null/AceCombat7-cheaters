@@ -3,7 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | Vhugotc91 | https://steamcommunity.com/profiles/76561199218730275 |
-| △simurg▽ | https://steamcommunity.com/profiles/76561199401367551 |
+| ▲𝐬𝐢𝐦𝐮𝐫𝐠▼ | https://steamcommunity.com/profiles/76561199401367551 |
 | 高木さん世界で最高だ | https://steamcommunity.com/profiles/76561199025138813 |
 | Musgus | https://steamcommunity.com/profiles/76561198859884192 |
 | Scorpion King | https://steamcommunity.com/profiles/76561198038827316 |
