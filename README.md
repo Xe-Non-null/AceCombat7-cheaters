@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| 밍창이 | https://steamcommunity.com/profiles/76561198145619796 |
 | Violet | https://steamcommunity.com/profiles/76561199140082027 |
 | ▲SimurG▼ | https://steamcommunity.com/profiles/76561199401367551 |
 | 高木さん世界で最高だ | https://steamcommunity.com/profiles/76561199025138813 |
