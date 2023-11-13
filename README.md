@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| Cheataemon | https://steamcommunity.com/profiles/76561199489780880 |
 | master1337 | https://steamcommunity.com/profiles/76561198107387037 |
 | 밍창이 | https://steamcommunity.com/profiles/76561198145619796 |
 | Violet | https://steamcommunity.com/profiles/76561199140082027 |
@@ -56,7 +57,6 @@
 | ACP | https://steamcommunity.com/profiles/76561198818703363 |
 | 錦仙 . 優曇華院 `个力川 | https://steamcommunity.com/profiles/76561199438934867 |
 | 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
-| bababooey | https://steamcommunity.com/profiles/76561199489780880 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
 | 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
 | 1654391949 | https://steamcommunity.com/profiles/76561199071839304 |
