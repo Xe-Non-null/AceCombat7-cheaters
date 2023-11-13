@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| Cheataemon | https://steamcommunity.com/profiles/76561199489780880 |
+| NlGGER 1 | https://steamcommunity.com/profiles/76561199489780880 |
 | master1337 | https://steamcommunity.com/profiles/76561198107387037 |
 | 밍창이 | https://steamcommunity.com/profiles/76561198145619796 |
 | Violet | https://steamcommunity.com/profiles/76561199140082027 |
