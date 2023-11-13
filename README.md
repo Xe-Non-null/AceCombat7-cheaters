@@ -22,7 +22,7 @@
 | 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
 | Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
 | TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
-|  | https://steamcommunity.com/profiles/76561198963991931 |
+| Ar_goRizm | https://steamcommunity.com/profiles/76561198963991931 |
 | spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
 | Ronin Eternal | https://steamcommunity.com/profiles/76561198150304103 |
 | 无瑕の小天使 | https://steamcommunity.com/profiles/76561199158658113 |
@@ -54,7 +54,7 @@
 | toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
 | Domehead | https://steamcommunity.com/profiles/76561198012246719 |
 | Skyle@der | https://steamcommunity.com/profiles/76561198829863126 |
-|  | https://steamcommunity.com/profiles/76561198818703363 |
+| ACP | https://steamcommunity.com/profiles/76561198818703363 |
 | 錦仙 . 優曇華院 `个力川 | https://steamcommunity.com/profiles/76561199438934867 |
 | 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
