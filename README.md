@@ -22,7 +22,7 @@
 | 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
 | Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
 | TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
-| 공군총사령관 | https://steamcommunity.com/profiles/76561198963991931 |
+| _KoN | https://steamcommunity.com/profiles/76561198963991931 |
 | spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
 | Ronin Eternal | https://steamcommunity.com/profiles/76561198150304103 |
 | 无瑕の小天使 | https://steamcommunity.com/profiles/76561199158658113 |
@@ -71,7 +71,7 @@
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
 | 处处吻✈ | https://steamcommunity.com/profiles/76561198980204295 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
-| zxczxc | https://steamcommunity.com/profiles/76561198081430238 |
+| scary me? | https://steamcommunity.com/profiles/76561198081430238 |
 | run | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
