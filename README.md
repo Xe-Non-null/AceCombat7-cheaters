@@ -19,9 +19,9 @@
 | Piccolo | https://steamcommunity.com/profiles/76561198817889927 |
 | caonimeigu | https://steamcommunity.com/profiles/76561199361973029 |
 | WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
-|  | https://steamcommunity.com/profiles/76561198953392478 |
+| 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
 | Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
-|  | https://steamcommunity.com/profiles/76561199036761417 |
+| TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
 | _KoN | https://steamcommunity.com/profiles/76561198963991931 |
 | spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
 | Ronin Eternal | https://steamcommunity.com/profiles/76561198150304103 |
