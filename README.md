@@ -3,14 +3,14 @@
 | name | steam URL |
 | ------ | ------ |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
-| master1337 | https://steamcommunity.com/profiles/76561198107387037 |
+|  | https://steamcommunity.com/profiles/76561198107387037 |
 | 밍창이 | https://steamcommunity.com/profiles/76561198145619796 |
 | Violet | https://steamcommunity.com/profiles/76561199140082027 |
 | ▲SimurG▼ | https://steamcommunity.com/profiles/76561199401367551 |
 | 高木さん世界で最高だ | https://steamcommunity.com/profiles/76561199025138813 |
 | Musgus | https://steamcommunity.com/profiles/76561198859884192 |
 | Scorpion King | https://steamcommunity.com/profiles/76561198038827316 |
-| Kamen | https://steamcommunity.com/profiles/76561199474926894 |
+|  | https://steamcommunity.com/profiles/76561199474926894 |
 | ตำรวจ | https://steamcommunity.com/profiles/76561198398157745 |
 | AE SPORTS IS BACKKK | https://steamcommunity.com/profiles/76561199227155475 |
 | YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
@@ -27,7 +27,7 @@
 | Ronin Eternal | https://steamcommunity.com/profiles/76561198150304103 |
 | 无瑕の小天使 | https://steamcommunity.com/profiles/76561199158658113 |
 | xiaoniu9779 | https://steamcommunity.com/profiles/76561199136741664 |
-| 夕阳武士与狗， | https://steamcommunity.com/profiles/76561198294378412 |
+| 76561198294378412 | https://steamcommunity.com/profiles/76561198294378412 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | Lightning &quot;Tempest&quot; Rafales | https://steamcommunity.com/profiles/76561198260897999 |
 | ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
@@ -46,7 +46,7 @@
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
-| Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
+|  | https://steamcommunity.com/profiles/76561199433034628 |
 | Divinity | https://steamcommunity.com/profiles/76561198036859894 |
 | PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
 | DagZede | https://steamcommunity.com/profiles/76561198127073615 |
