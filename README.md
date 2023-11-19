@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| 养生的鱼噢 | https://steamcommunity.com/profiles/76561198943227563 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
 | master1337 | https://steamcommunity.com/profiles/76561198107387037 |
 | 밍창이 | https://steamcommunity.com/profiles/76561198145619796 |
