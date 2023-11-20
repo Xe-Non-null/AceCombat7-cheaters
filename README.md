@@ -12,7 +12,7 @@
 | ▲SimurG▼ | https://steamcommunity.com/profiles/76561199401367551 |
 | 高木さん世界で最高だ | https://steamcommunity.com/profiles/76561199025138813 |
 | Musgus | https://steamcommunity.com/profiles/76561198859884192 |
-| Top Dog Daddy | https://steamcommunity.com/profiles/76561198038827316 |
+| Scorpion King | https://steamcommunity.com/profiles/76561198038827316 |
 | Kamen | https://steamcommunity.com/profiles/76561199474926894 |
 | เอื้ออาทร | https://steamcommunity.com/profiles/76561198398157745 |
 | AE SPORTS IS BACKKK | https://steamcommunity.com/profiles/76561199227155475 |
