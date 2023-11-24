@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| YMB_GRIM REAPER'S | https://steamcommunity.com/profiles/76561199501593849 |
+| YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
 | TheSpoodster | https://steamcommunity.com/profiles/76561198220391076 |
 | 养生的鱼噢 | https://steamcommunity.com/profiles/76561198943227563 |
