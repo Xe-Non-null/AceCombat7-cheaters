@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| YOU MAD BRO??? | https://steamcommunity.com/profiles/76561199501593849 |
+| YMB_GRIM REAPER'S | https://steamcommunity.com/profiles/76561199501593849 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
 | TheSpoodster | https://steamcommunity.com/profiles/76561198220391076 |
 | 养生的鱼噢 | https://steamcommunity.com/profiles/76561198943227563 |
@@ -14,7 +14,7 @@
 | 高木さん世界で最高だ | https://steamcommunity.com/profiles/76561199025138813 |
 | Musgus | https://steamcommunity.com/profiles/76561198859884192 |
 | Scorpion King | https://steamcommunity.com/profiles/76561198038827316 |
-| Kamen | https://steamcommunity.com/profiles/76561199474926894 |
+| 风卷尘生 | https://steamcommunity.com/profiles/76561199474926894 |
 | เอื้ออาทร | https://steamcommunity.com/profiles/76561198398157745 |
 | ps5 controller drift | https://steamcommunity.com/profiles/76561199227155475 |
 | ああ!ジャン・ルイがやられた! | https://steamcommunity.com/profiles/76561198301029341 |
