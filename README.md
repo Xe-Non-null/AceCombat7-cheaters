@@ -23,7 +23,7 @@
 | caonimeigu | https://steamcommunity.com/profiles/76561199361973029 |
 | WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
 | 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
-| Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
+|  | https://steamcommunity.com/profiles/76561199150963881 |
 | TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
 | 대한민국 공군총사령관 | https://steamcommunity.com/profiles/76561198963991931 |
 | spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
