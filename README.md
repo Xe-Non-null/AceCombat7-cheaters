@@ -59,7 +59,7 @@
 | 錦仙 . 優曇華院 `个力川 | https://steamcommunity.com/profiles/76561199438934867 |
 | 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
-| 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
+|  | https://steamcommunity.com/profiles/76561198892725495 |
 | 1654391949 | https://steamcommunity.com/profiles/76561199071839304 |
 | CPLA | https://steamcommunity.com/profiles/76561199390199106 |
 | JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
