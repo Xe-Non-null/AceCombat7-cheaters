@@ -25,7 +25,7 @@
 | 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
 | Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
 | TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
-| K-SAM | https://steamcommunity.com/profiles/76561198963991931 |
+| 대한민국 공군총사령관 | https://steamcommunity.com/profiles/76561198963991931 |
 | spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
 | Ronin Eternal | https://steamcommunity.com/profiles/76561198150304103 |
 | 无瑕の小天使 | https://steamcommunity.com/profiles/76561199158658113 |
