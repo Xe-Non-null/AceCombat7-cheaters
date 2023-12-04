@@ -3,6 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
+| SoaringSpirit | https://steamcommunity.com/profiles/76561199005498017 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
 | Skyondream | https://steamcommunity.com/profiles/76561199497116434 |
 | TheSpoodster | https://steamcommunity.com/profiles/76561198220391076 |
