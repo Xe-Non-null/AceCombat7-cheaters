@@ -60,7 +60,6 @@
 | toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
 | Domehead | https://steamcommunity.com/profiles/76561198012246719 |
 | Skyle@der | https://steamcommunity.com/profiles/76561198829863126 |
-| OX | https://steamcommunity.com/profiles/76561198818703363 |
 | 錦仙 . 優曇華院 `个力川 | https://steamcommunity.com/profiles/76561199438934867 |
 | 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
