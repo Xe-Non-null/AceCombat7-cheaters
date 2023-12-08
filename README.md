@@ -3,6 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
+| MagmaDash | https://steamcommunity.com/profiles/76561199004004915 |
 | Max Caulfield | https://steamcommunity.com/profiles/76561198101323037 |
 | OX | https://steamcommunity.com/profiles/76561198818703363 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
