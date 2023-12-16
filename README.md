@@ -50,21 +50,21 @@
 | ysamtme | https://steamcommunity.com/profiles/76561198076214633 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
-|  | https://steamcommunity.com/profiles/76561199245272853 |
+| Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
-|  | https://steamcommunity.com/profiles/76561198046742690 |
-|  | https://steamcommunity.com/profiles/76561199433034628 |
+| Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
+| Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
 | Divinity | https://steamcommunity.com/profiles/76561198036859894 |
 | PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
 | DagZede | https://steamcommunity.com/profiles/76561198127073615 |
 | seanpowellonemanband | https://steamcommunity.com/profiles/76561198854660782 |
 | toonistiny | https://steamcommunity.com/profiles/76561199378969003 |
-|  | https://steamcommunity.com/profiles/76561198012246719 |
+| Domehead | https://steamcommunity.com/profiles/76561198012246719 |
 | Skyle@der | https://steamcommunity.com/profiles/76561198829863126 |
-|  | https://steamcommunity.com/profiles/76561199438934867 |
+| 錦仙 . 優曇華院 `个力川 | https://steamcommunity.com/profiles/76561199438934867 |
 | 726683716 | https://steamcommunity.com/profiles/76561198281111612 |
 | Kudoli | https://steamcommunity.com/profiles/76561198223744704 |
 | 阿肥 | https://steamcommunity.com/profiles/76561198892725495 |
