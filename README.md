@@ -8,7 +8,7 @@
 | MagmaDash | https://steamcommunity.com/profiles/76561199004004915 |
 | Max Caulfield | https://steamcommunity.com/profiles/76561198101323037 |
 | OX | https://steamcommunity.com/profiles/76561198818703363 |
-| ControlC | https://steamcommunity.com/profiles/76561198043036941 |
+|  | https://steamcommunity.com/profiles/76561198043036941 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
 | caonimeigu | https://steamcommunity.com/profiles/76561199361973029 |
 | Skyondream | https://steamcommunity.com/profiles/76561199497116434 |
@@ -19,11 +19,11 @@
 | 龙若琳 | https://steamcommunity.com/profiles/76561198955687025 |
 | 밍창이 | https://steamcommunity.com/profiles/76561198145619796 |
 | Violet | https://steamcommunity.com/profiles/76561199140082027 |
-| ▲SimurG▼ | https://steamcommunity.com/profiles/76561199401367551 |
+|  | https://steamcommunity.com/profiles/76561199401367551 |
 | 高木さん世界で最高だ | https://steamcommunity.com/profiles/76561199025138813 |
 | Musgus | https://steamcommunity.com/profiles/76561198859884192 |
 | Scorpion King | https://steamcommunity.com/profiles/76561198038827316 |
-| 风卷尘生 | https://steamcommunity.com/profiles/76561199474926894 |
+|  | https://steamcommunity.com/profiles/76561199474926894 |
 | พระเอกไปละ | https://steamcommunity.com/profiles/76561198398157745 |
 | AE sports | https://steamcommunity.com/profiles/76561199227155475 |
 | ああ!ジャン・ルイがやられた! | https://steamcommunity.com/profiles/76561198301029341 |
