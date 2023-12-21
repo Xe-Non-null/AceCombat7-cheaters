@@ -3,6 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
+| Crazystarwar140 | https://steamcommunity.com/profiles/76561198426925179 |
 | Max Caulfield | https://steamcommunity.com/profiles/76561198101323037 |
 | E__RR | https://steamcommunity.com/profiles/76561198963991931 |
 | noodle the sneck | https://steamcommunity.com/profiles/76561199229760980 |
