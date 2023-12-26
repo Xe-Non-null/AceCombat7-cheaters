@@ -6,7 +6,7 @@
 | 蜡笔小蟹 | https://steamcommunity.com/profiles/76561199002216348 |
 | Crazystarwar140 | https://steamcommunity.com/profiles/76561198426925179 |
 | Max Caulfield | https://steamcommunity.com/profiles/76561198101323037 |
-| 完_ 必勝 | https://steamcommunity.com/profiles/76561198963991931 |
+| 대한민국 화이팅! | https://steamcommunity.com/profiles/76561198963991931 |
 | noodle the sneck | https://steamcommunity.com/profiles/76561199229760980 |
 | MagmaDash | https://steamcommunity.com/profiles/76561199004004915 |
 | OX | https://steamcommunity.com/profiles/76561198818703363 |
@@ -36,7 +36,7 @@
 | 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
 | Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
 | TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
-| 完_ 必勝 | https://steamcommunity.com/profiles/76561198963991931 |
+| 대한민국 화이팅! | https://steamcommunity.com/profiles/76561198963991931 |
 | spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
 | Ronin Eternal | https://steamcommunity.com/profiles/76561198150304103 |
 | 无瑕の小天使 | https://steamcommunity.com/profiles/76561199158658113 |
