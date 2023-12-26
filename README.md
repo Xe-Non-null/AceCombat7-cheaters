@@ -3,6 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
+| exolist393 | https://steamcommunity.com/profiles/76561199373637935 |
 | 蜡笔小蟹 | https://steamcommunity.com/profiles/76561199002216348 |
 | Crazystarwar140 | https://steamcommunity.com/profiles/76561198426925179 |
 | Max Caulfield | https://steamcommunity.com/profiles/76561198101323037 |
