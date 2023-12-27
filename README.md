@@ -28,7 +28,7 @@
 | ▲SimurG▼ | https://steamcommunity.com/profiles/76561199401367551 |
 | 高木さん世界で最高だ | https://steamcommunity.com/profiles/76561199025138813 |
 | Musgus | https://steamcommunity.com/profiles/76561198859884192 |
-| Mr. Green Christmas | https://steamcommunity.com/profiles/76561198038827316 |
+| Scorpion King | https://steamcommunity.com/profiles/76561198038827316 |
 | 风卷尘生 | https://steamcommunity.com/profiles/76561199474926894 |
 | ตอนจบที่หักมุม | https://steamcommunity.com/profiles/76561198398157745 |
 | AE sports | https://steamcommunity.com/profiles/76561199227155475 |
@@ -105,7 +105,7 @@
 | 印度人 | https://steamcommunity.com/profiles/76561199032447430 |
 | 网上比街上热闹 | https://steamcommunity.com/profiles/76561199028490431 |
 | GUOZI ! | https://steamcommunity.com/profiles/76561198445457868 |
-| 非法梦遗 | https://steamcommunity.com/profiles/76561198368034387 |
+| Hydra9 | https://steamcommunity.com/profiles/76561198368034387 |
 | 葫芦娃 | https://steamcommunity.com/profiles/76561199116012716 |
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
 | Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
