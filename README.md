@@ -3,6 +3,8 @@
 | name | steam URL |
 | ------ | ------ |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
+| rudukwc13 | https://steamcommunity.com/profiles/76561199223936931 |
+| ATLAS | https://steamcommunity.com/profiles/76561198930833258 |
 | exolist393 | https://steamcommunity.com/profiles/76561199373637935 |
 | Skyleαder | https://steamcommunity.com/profiles/76561198829863126 |
 | 蜡笔小蟹 | https://steamcommunity.com/profiles/76561199002216348 |
