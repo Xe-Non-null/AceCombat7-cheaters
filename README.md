@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
+|  | https://steamcommunity.com/profiles/76561199501593849 |
 | rudukwc13 | https://steamcommunity.com/profiles/76561199223936931 |
 | ATLAS | https://steamcommunity.com/profiles/76561198930833258 |
 | exolist393 | https://steamcommunity.com/profiles/76561199373637935 |
@@ -34,7 +34,7 @@
 | AE sports | https://steamcommunity.com/profiles/76561199227155475 |
 | ああ!ジャン・ルイがやられた! | https://steamcommunity.com/profiles/76561198301029341 |
 | 小智避开来 | https://steamcommunity.com/profiles/76561198075692143 |
-| Piccolo | https://steamcommunity.com/profiles/76561198817889927 |
+|  | https://steamcommunity.com/profiles/76561198817889927 |
 | Filp Bogle | https://steamcommunity.com/profiles/76561198328779734 |
 | WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
 | 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
@@ -78,7 +78,7 @@
 | JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
 | armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
-| Igor | https://steamcommunity.com/profiles/76561198990544647 |
+|  | https://steamcommunity.com/profiles/76561198990544647 |
 | iRatman_ | https://steamcommunity.com/profiles/76561198092502120 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
 | JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
@@ -86,7 +86,7 @@
 | 处处吻✈ | https://steamcommunity.com/profiles/76561198980204295 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
 | zxcasd | https://steamcommunity.com/profiles/76561198081430238 |
-| run | https://steamcommunity.com/profiles/76561199048027117 |
+|  | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [ACE] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
