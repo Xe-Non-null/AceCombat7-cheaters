@@ -8,7 +8,7 @@
 | exolist393 | https://steamcommunity.com/profiles/76561199373637935 |
 | ✯ Skyleαder ✯ | https://steamcommunity.com/profiles/76561198829863126 |
 | 蜡笔小蟹 | https://steamcommunity.com/profiles/76561199002216348 |
-| Crazystarwar140 | https://steamcommunity.com/profiles/76561198426925179 |
+|  | https://steamcommunity.com/profiles/76561198426925179 |
 | Max Caulfield | https://steamcommunity.com/profiles/76561198101323037 |
 | 完_ 必勝 | https://steamcommunity.com/profiles/76561198963991931 |
 | noodle the sneck | https://steamcommunity.com/profiles/76561199229760980 |
@@ -18,7 +18,7 @@
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
 | caonimeigu | https://steamcommunity.com/profiles/76561199361973029 |
 | Skyondream | https://steamcommunity.com/profiles/76561199497116434 |
-| TheSpoodster | https://steamcommunity.com/profiles/76561198220391076 |
+|  | https://steamcommunity.com/profiles/76561198220391076 |
 | 养生的鱼噢 | https://steamcommunity.com/profiles/76561198943227563 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
 | master1337 | https://steamcommunity.com/profiles/76561198107387037 |
