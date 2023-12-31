@@ -32,10 +32,10 @@
 | 风卷尘生 | https://steamcommunity.com/profiles/76561199474926894 |
 | ตอนจบที่หักมุม | https://steamcommunity.com/profiles/76561198398157745 |
 | AE sports | https://steamcommunity.com/profiles/76561199227155475 |
-|  | https://steamcommunity.com/profiles/76561198301029341 |
+| ああ!ジャン・ルイがやられた! | https://steamcommunity.com/profiles/76561198301029341 |
 | 小智避开来 | https://steamcommunity.com/profiles/76561198075692143 |
 | Piccolo | https://steamcommunity.com/profiles/76561198817889927 |
-|  | https://steamcommunity.com/profiles/76561198328779734 |
+| Filp Bogle | https://steamcommunity.com/profiles/76561198328779734 |
 | WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
 | 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
 | Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
@@ -45,7 +45,7 @@
 | Ronin Eternal | https://steamcommunity.com/profiles/76561198150304103 |
 | 无瑕の小天使 | https://steamcommunity.com/profiles/76561199158658113 |
 | xiaoniu9779 | https://steamcommunity.com/profiles/76561199136741664 |
-|  | https://steamcommunity.com/profiles/76561198294378412 |
+| 夕阳武士与狗， | https://steamcommunity.com/profiles/76561198294378412 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
 | 她说外面有蛇我说蛇在里面她说蛇在外面 | https://steamcommunity.com/profiles/76561199535817299 |
@@ -88,7 +88,7 @@
 | zxcasd | https://steamcommunity.com/profiles/76561198081430238 |
 | run | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
-|  | https://steamcommunity.com/profiles/76561198839646162 |
+| Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [ACE] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
 | EreBus | https://steamcommunity.com/profiles/76561198209173436 |
 | 九_州 | https://steamcommunity.com/profiles/76561198973679329 |
