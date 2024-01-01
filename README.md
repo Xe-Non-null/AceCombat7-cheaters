@@ -3,6 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
+| CNEOS1-kryo | https://steamcommunity.com/profiles/76561199590949305 |
 | Солнце | https://steamcommunity.com/profiles/76561198898699339 |
 | caonimeigu | https://steamcommunity.com/profiles/76561199361973029 |
 | rudukwc13 | https://steamcommunity.com/profiles/76561199223936931 |
