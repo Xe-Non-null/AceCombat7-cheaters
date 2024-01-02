@@ -3,6 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
+| [IC-01] Crimson 1 | https://steamcommunity.com/profiles/76561198881741459 |
 | CNEOS1-kryo | https://steamcommunity.com/profiles/76561199590949305 |
 | Солнце | https://steamcommunity.com/profiles/76561198898699339 |
 | caonimeigu | https://steamcommunity.com/profiles/76561199361973029 |
