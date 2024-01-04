@@ -65,7 +65,7 @@
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
-| Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
+| HAMILTON_PSR | https://steamcommunity.com/profiles/76561199433034628 |
 | Divinity | https://steamcommunity.com/profiles/76561198036859894 |
 | PrayerAnswer | https://steamcommunity.com/profiles/76561199216430196 |
 | DagZede | https://steamcommunity.com/profiles/76561198127073615 |
