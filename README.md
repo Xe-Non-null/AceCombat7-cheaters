@@ -12,7 +12,7 @@
 | Солнце | https://steamcommunity.com/profiles/76561198898699339 |
 | caonimeigu | https://steamcommunity.com/profiles/76561199361973029 |
 | rudukwc13 | https://steamcommunity.com/profiles/76561199223936931 |
-| ATLAS | https://steamcommunity.com/profiles/76561198930833258 |
+|  | https://steamcommunity.com/profiles/76561198930833258 |
 | exolist393 | https://steamcommunity.com/profiles/76561199373637935 |
 | ✯✯✯_Skyleαder_✯✯✯ | https://steamcommunity.com/profiles/76561198829863126 |
 | 蜡笔小蟹 | https://steamcommunity.com/profiles/76561199002216348 |
@@ -105,7 +105,7 @@
 | ATHOOD | https://steamcommunity.com/profiles/76561198101337488 |
 | 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
 | &lt;font color=rpg#FF3030&gt;Vigoss | https://steamcommunity.com/profiles/76561198078057512 |
-|  | https://steamcommunity.com/profiles/76561198076137075 |
+| 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
 | 印度人 | https://steamcommunity.com/profiles/76561199032447430 |
 | 网上比街上热闹 | https://steamcommunity.com/profiles/76561199028490431 |
 | GUOZI ! | https://steamcommunity.com/profiles/76561198445457868 |
