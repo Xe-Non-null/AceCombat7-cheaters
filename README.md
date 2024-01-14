@@ -6,7 +6,7 @@
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | minakosenpai | https://steamcommunity.com/profiles/76561198139082588 |
 | Teniente Muffin | https://steamcommunity.com/profiles/76561199097646181 |
-| 完_ 必勝 | https://steamcommunity.com/profiles/76561198963991931 |
+| SUMS | https://steamcommunity.com/profiles/76561198963991931 |
 | [IC-01] Crimson 1 | https://steamcommunity.com/profiles/76561198881741459 |
 | CNEOS1-kryo | https://steamcommunity.com/profiles/76561199590949305 |
 | Солнце | https://steamcommunity.com/profiles/76561198898699339 |
