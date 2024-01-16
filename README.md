@@ -115,8 +115,8 @@
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
 | Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
-| 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
-| CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
-| Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
+|  | https://steamcommunity.com/profiles/76561199214277508 |
+|  | https://steamcommunity.com/profiles/76561199247196637 |
+|  | https://steamcommunity.com/profiles/76561198161141089 |
 | Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
-| GT-Force | https://steamcommunity.com/profiles/76561198027532793 |
+|  | https://steamcommunity.com/profiles/76561198027532793 |
