@@ -3,7 +3,6 @@
 | name | steam URL |
 | ------ | ------ |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
-| RikkiSan | https://steamcommunity.com/profiles/76561198084681438 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | minakosenpai | https://steamcommunity.com/profiles/76561198139082588 |
 | Teniente Muffin | https://steamcommunity.com/profiles/76561199097646181 |
