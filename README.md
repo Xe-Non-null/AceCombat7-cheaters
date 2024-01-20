@@ -3,7 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
-| ✯✯✯_Skyleαder_✯✯✯ | https://steamcommunity.com/profiles/76561198829863126 |
+|  | https://steamcommunity.com/profiles/76561198829863126 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | minakosenpai | https://steamcommunity.com/profiles/76561198139082588 |
 | Teniente Muffin | https://steamcommunity.com/profiles/76561199097646181 |
@@ -12,7 +12,7 @@
 | CNEOS1-kryo | https://steamcommunity.com/profiles/76561199590949305 |
 | Солнце | https://steamcommunity.com/profiles/76561198898699339 |
 | caonimeigu | https://steamcommunity.com/profiles/76561199361973029 |
-| rudukwc13 | https://steamcommunity.com/profiles/76561199223936931 |
+|  | https://steamcommunity.com/profiles/76561199223936931 |
 | ATLAS | https://steamcommunity.com/profiles/76561198930833258 |
 | exolist393 | https://steamcommunity.com/profiles/76561199373637935 |
 | 蜡笔小蟹 | https://steamcommunity.com/profiles/76561199002216348 |
@@ -25,7 +25,7 @@
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
 | Skyondream | https://steamcommunity.com/profiles/76561199497116434 |
 | TheSpoodster | https://steamcommunity.com/profiles/76561198220391076 |
-| 养生的鱼噢 | https://steamcommunity.com/profiles/76561198943227563 |
+|  | https://steamcommunity.com/profiles/76561198943227563 |
 | Mike Hunt | https://steamcommunity.com/profiles/76561199489780880 |
 | master1337 | https://steamcommunity.com/profiles/76561198107387037 |
 | 龙若琳 | https://steamcommunity.com/profiles/76561198955687025 |
