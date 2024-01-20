@@ -36,7 +36,7 @@
 | Musgus | https://steamcommunity.com/profiles/76561198859884192 |
 | Scorpion King | https://steamcommunity.com/profiles/76561198038827316 |
 | 逝去者 | https://steamcommunity.com/profiles/76561199474926894 |
-|  | https://steamcommunity.com/profiles/76561198398157745 |
+| ตอนจบที่หักมุม | https://steamcommunity.com/profiles/76561198398157745 |
 | Zykels | https://steamcommunity.com/profiles/76561199227155475 |
 | ああ!ジャン・ルイがやられた! | https://steamcommunity.com/profiles/76561198301029341 |
 | 小智避开来 | https://steamcommunity.com/profiles/76561198075692143 |
@@ -44,7 +44,7 @@
 | Filp Bogle | https://steamcommunity.com/profiles/76561198328779734 |
 | WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
 | 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
-|  | https://steamcommunity.com/profiles/76561199150963881 |
+| Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
 | TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
 | spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
 | Ronin Eternal | https://steamcommunity.com/profiles/76561198150304103 |
