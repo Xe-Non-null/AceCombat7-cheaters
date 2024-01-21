@@ -43,7 +43,7 @@
 | ああ!ジャン・ルイがやられた! | https://steamcommunity.com/profiles/76561198301029341 |
 | 小智避开来 | https://steamcommunity.com/profiles/76561198075692143 |
 | Piccolo | https://steamcommunity.com/profiles/76561198817889927 |
-|  | https://steamcommunity.com/profiles/76561198328779734 |
+| Filp Bogle | https://steamcommunity.com/profiles/76561198328779734 |
 | WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
 | 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
 | Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
