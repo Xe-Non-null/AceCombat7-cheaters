@@ -37,7 +37,7 @@
 | 高木さん世界で最高だ | https://steamcommunity.com/profiles/76561199025138813 |
 | Musgus | https://steamcommunity.com/profiles/76561198859884192 |
 | Scorpion King | https://steamcommunity.com/profiles/76561198038827316 |
-| 逝去者 | https://steamcommunity.com/profiles/76561199474926894 |
+| 临琛 | https://steamcommunity.com/profiles/76561199474926894 |
 | พระเอกหนังเกรดบี | https://steamcommunity.com/profiles/76561198398157745 |
 | Zykels | https://steamcommunity.com/profiles/76561199227155475 |
 | ああ!ジャン・ルイがやられた! | https://steamcommunity.com/profiles/76561198301029341 |
