@@ -3,6 +3,8 @@
 | name | steam URL |
 | ------ | ------ |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
+| xiaoniu9779 | https://steamcommunity.com/profiles/76561199136741664 |
+| SW1969 | https://steamcommunity.com/profiles/76561199216725193 |
 | 完_ 必勝 | https://steamcommunity.com/profiles/76561198963991931 |
 | Hellpiercer | https://steamcommunity.com/profiles/76561199221096519 |
 | xx_SneakyNinja_xx | https://steamcommunity.com/profiles/76561199229848829 |
@@ -51,7 +53,6 @@
 | spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
 | Ronin Eternal | https://steamcommunity.com/profiles/76561198150304103 |
 | 无瑕の小天使 | https://steamcommunity.com/profiles/76561199158658113 |
-| xiaoniu9779 | https://steamcommunity.com/profiles/76561199136741664 |
 | 夕阳武士与狗， | https://steamcommunity.com/profiles/76561198294378412 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
