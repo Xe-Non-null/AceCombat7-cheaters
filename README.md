@@ -62,12 +62,12 @@
 | asennad | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | ярек | https://steamcommunity.com/profiles/76561198076214633 |
-| 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
+|  | https://steamcommunity.com/profiles/76561199168111744 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
-| alpha | https://steamcommunity.com/profiles/76561198319585202 |
+|  | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
 | HAMILTON_PSR | https://steamcommunity.com/profiles/76561199433034628 |
 | Divinity | https://steamcommunity.com/profiles/76561198036859894 |
@@ -88,7 +88,7 @@
 | Igor | https://steamcommunity.com/profiles/76561198990544647 |
 | iRatman_ | https://steamcommunity.com/profiles/76561198092502120 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
-| JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
+|  | https://steamcommunity.com/profiles/76561198030697690 |
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
 | 处处吻✈ | https://steamcommunity.com/profiles/76561198980204295 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
