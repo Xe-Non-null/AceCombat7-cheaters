@@ -8,7 +8,7 @@
 | 完_ 必勝 | https://steamcommunity.com/profiles/76561198963991931 |
 | Hellpiercer | https://steamcommunity.com/profiles/76561199221096519 |
 | xx_SneakyNinja_xx | https://steamcommunity.com/profiles/76561199229848829 |
-| ☠︎︎ Skyle@der ☠ | https://steamcommunity.com/profiles/76561198829863126 |
+| ✪ Skyle@der ✪ | https://steamcommunity.com/profiles/76561198829863126 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | minakosenpai | https://steamcommunity.com/profiles/76561198139082588 |
 | Teniente Muffin | https://steamcommunity.com/profiles/76561199097646181 |
