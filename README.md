@@ -6,7 +6,7 @@
 | MikeAboose | https://steamcommunity.com/profiles/76561198103844413 |
 | xiaoniu9779 | https://steamcommunity.com/profiles/76561199136741664 |
 | ✪ Skyfire ✪ | https://steamcommunity.com/profiles/76561199216725193 |
-| 完_ 必勝 | https://steamcommunity.com/profiles/76561198963991931 |
+| 대한민국 공군총사령관 | https://steamcommunity.com/profiles/76561198963991931 |
 | Hellpiercer | https://steamcommunity.com/profiles/76561199221096519 |
 | xx_SneakyNinja_xx | https://steamcommunity.com/profiles/76561199229848829 |
 | ✪ Skyle@der ✪ | https://steamcommunity.com/profiles/76561198829863126 |
