@@ -37,7 +37,7 @@
 | 밍창이 | https://steamcommunity.com/profiles/76561198145619796 |
 | Violet | https://steamcommunity.com/profiles/76561199140082027 |
 | ▲SimurG▼ | https://steamcommunity.com/profiles/76561199401367551 |
-| 高木さん世界で最高だ | https://steamcommunity.com/profiles/76561199025138813 |
+|  | https://steamcommunity.com/profiles/76561199025138813 |
 | Musgus | https://steamcommunity.com/profiles/76561198859884192 |
 | Scorpion King | https://steamcommunity.com/profiles/76561198038827316 |
 | 临琛 | https://steamcommunity.com/profiles/76561199474926894 |
@@ -56,7 +56,7 @@
 | 无瑕の小天使 | https://steamcommunity.com/profiles/76561199158658113 |
 | 夕阳武士与狗， | https://steamcommunity.com/profiles/76561198294378412 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
-| ConfidentlyWrong | https://steamcommunity.com/profiles/76561198982424786 |
+|  | https://steamcommunity.com/profiles/76561198982424786 |
 | 她说外面有蛇我说蛇在里面她说蛇在外面 | https://steamcommunity.com/profiles/76561199535817299 |
 | OnePunchMan69 | https://steamcommunity.com/profiles/76561198177980518 |
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
@@ -64,7 +64,7 @@
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | ярек | https://steamcommunity.com/profiles/76561198076214633 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
-| Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
+|  | https://steamcommunity.com/profiles/76561198301721995 |
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
 | La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
