@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| Crimson | https://steamcommunity.com/profiles/76561198256021122 |
 | Mr Nobody | https://steamcommunity.com/profiles/76561199216725193 |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
 | RougeLarme | https://steamcommunity.com/profiles/76561198018473837 |
