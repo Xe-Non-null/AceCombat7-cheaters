@@ -52,7 +52,7 @@
 | 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
 | Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
 | TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
-| spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
+|  | https://steamcommunity.com/profiles/76561198304384143 |
 | Ronin Eternal | https://steamcommunity.com/profiles/76561198150304103 |
 | 无瑕の小天使 | https://steamcommunity.com/profiles/76561199158658113 |
 | 夕阳武士与狗， | https://steamcommunity.com/profiles/76561198294378412 |
@@ -63,7 +63,7 @@
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
 | asennad | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
-| ярек | https://steamcommunity.com/profiles/76561198076214633 |
+|  | https://steamcommunity.com/profiles/76561198076214633 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
@@ -111,7 +111,7 @@
 | 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
 | &lt;font color=rpg#FF3030&gt;Vigoss | https://steamcommunity.com/profiles/76561198078057512 |
 | 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
-| 印度人 | https://steamcommunity.com/profiles/76561199032447430 |
+| 76561199032447430 | https://steamcommunity.com/profiles/76561199032447430 |
 | 网上比街上热闹 | https://steamcommunity.com/profiles/76561199028490431 |
 | GUOZI ! | https://steamcommunity.com/profiles/76561198445457868 |
 | Hydra9 | https://steamcommunity.com/profiles/76561198368034387 |
