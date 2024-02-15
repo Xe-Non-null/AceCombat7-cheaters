@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-|  | https://steamcommunity.com/profiles/76561198256021122 |
+| Crimson | https://steamcommunity.com/profiles/76561198256021122 |
 | Wingman | https://steamcommunity.com/profiles/76561199216725193 |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
 | RougeLarme | https://steamcommunity.com/profiles/76561198018473837 |
@@ -26,7 +26,7 @@
 | Max Caulfield | https://steamcommunity.com/profiles/76561198101323037 |
 | noodle the sneck | https://steamcommunity.com/profiles/76561199229760980 |
 | MagmaDash | https://steamcommunity.com/profiles/76561199004004915 |
-|  | https://steamcommunity.com/profiles/76561198818703363 |
+| OX | https://steamcommunity.com/profiles/76561198818703363 |
 | ControlC | https://steamcommunity.com/profiles/76561198043036941 |
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
 | Skyondream | https://steamcommunity.com/profiles/76561199497116434 |
@@ -49,7 +49,7 @@
 | Piccolo | https://steamcommunity.com/profiles/76561198817889927 |
 | Filp Bogle | https://steamcommunity.com/profiles/76561198328779734 |
 | WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
-|  | https://steamcommunity.com/profiles/76561198953392478 |
+| 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
 | Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
 | TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
 | spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
@@ -61,7 +61,7 @@
 | 她说外面有蛇我说蛇在里面她说蛇在外面 | https://steamcommunity.com/profiles/76561199535817299 |
 | OnePunchMan69 | https://steamcommunity.com/profiles/76561198177980518 |
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
-|  | https://steamcommunity.com/profiles/76561199465912684 |
+| asennad | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
 | ярек | https://steamcommunity.com/profiles/76561198076214633 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
