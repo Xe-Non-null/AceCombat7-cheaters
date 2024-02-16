@@ -109,7 +109,7 @@
 | WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
 | ATHOOD | https://steamcommunity.com/profiles/76561198101337488 |
 | 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
-|  | https://steamcommunity.com/profiles/76561198078057512 |
+| &lt;font color=rpg#FF3030&gt;Vigoss | https://steamcommunity.com/profiles/76561198078057512 |
 | 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
 | 印度人 | https://steamcommunity.com/profiles/76561199032447430 |
 | 网上比街上热闹 | https://steamcommunity.com/profiles/76561199028490431 |
