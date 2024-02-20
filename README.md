@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| Chuck | https://steamcommunity.com/profiles/76561198961226717 |
 | Mister Tartaria | https://steamcommunity.com/profiles/76561198994345306 |
 | 8675309 | https://steamcommunity.com/profiles/76561199216725193 |
 | Crimson | https://steamcommunity.com/profiles/76561198256021122 |
