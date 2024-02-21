@@ -8,7 +8,7 @@
 | 8675309 | https://steamcommunity.com/profiles/76561199216725193 |
 | Crimson | https://steamcommunity.com/profiles/76561198256021122 |
 | 必勝空戰 | https://steamcommunity.com/profiles/76561198963991931 |
-| 会飞的剃须刀 | https://steamcommunity.com/profiles/76561198829863126 |
+| 会飞的剃须 | https://steamcommunity.com/profiles/76561198829863126 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
 | RougeLarme | https://steamcommunity.com/profiles/76561198018473837 |
