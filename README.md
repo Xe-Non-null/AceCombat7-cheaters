@@ -9,7 +9,7 @@
 | 8675309 | https://steamcommunity.com/profiles/76561199216725193 |
 | Crimson | https://steamcommunity.com/profiles/76561198256021122 |
 | 必勝空戰 | https://steamcommunity.com/profiles/76561198963991931 |
-| ✯ Skyle@der ✯ | https://steamcommunity.com/profiles/76561198829863126 |
+| Lt. Kazansky | https://steamcommunity.com/profiles/76561198829863126 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | MikeAboose | https://steamcommunity.com/profiles/76561198103844413 |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
