@@ -2,6 +2,9 @@
 
 | name | steam URL |
 | ------ | ------ |
+| CNEOS1-kryo | https://steamcommunity.com/profiles/76561199590949305 |
+| 9035768 | https://steamcommunity.com/profiles/76561198829863126 |
+| RED-DAX-XIII | https://steamcommunity.com/profiles/76561198345323408 |
 | Filltap | https://steamcommunity.com/profiles/76561198151947614 |
 | Malden | https://steamcommunity.com/profiles/76561198850362167 |
 | Chuck | https://steamcommunity.com/profiles/76561198961226717 |
@@ -9,7 +12,6 @@
 | 8675309 | https://steamcommunity.com/profiles/76561199216725193 |
 | Crimson | https://steamcommunity.com/profiles/76561198256021122 |
 | 必勝空戰 | https://steamcommunity.com/profiles/76561198963991931 |
-| Starbreaker | https://steamcommunity.com/profiles/76561198829863126 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
 | MikeAboose | https://steamcommunity.com/profiles/76561198103844413 |
 | YMB_GRIM REAPERS | https://steamcommunity.com/profiles/76561199501593849 |
@@ -19,7 +21,6 @@
 | minakosenpai | https://steamcommunity.com/profiles/76561198139082588 |
 | Teniente Muffin | https://steamcommunity.com/profiles/76561199097646181 |
 | [IC-01] Crimson 1 | https://steamcommunity.com/profiles/76561198881741459 |
-| CNEOS1-kryo | https://steamcommunity.com/profiles/76561199590949305 |
 | Солнце | https://steamcommunity.com/profiles/76561198898699339 |
 | caonimeigu | https://steamcommunity.com/profiles/76561199361973029 |
 | rudukwc13 | https://steamcommunity.com/profiles/76561199223936931 |
