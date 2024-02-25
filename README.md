@@ -3,7 +3,7 @@
 | name | steam URL |
 | ------ | ------ |
 | CNEOS1-kryo | https://steamcommunity.com/profiles/76561199590949305 |
-| 9035768 | https://steamcommunity.com/profiles/76561198829863126 |
+| 只是一个简单的人 | https://steamcommunity.com/profiles/76561198829863126 |
 | RED-DAX-XIII | https://steamcommunity.com/profiles/76561198345323408 |
 | Filltap | https://steamcommunity.com/profiles/76561198151947614 |
 | x-ray | https://steamcommunity.com/profiles/76561198850362167 |
