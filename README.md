@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| Moretti | https://steamcommunity.com/profiles/76561199117280140 |
 | 老司鸡 | https://steamcommunity.com/profiles/76561198443132230 |
 | CNEOS1-kryo | https://steamcommunity.com/profiles/76561199590949305 |
 | 个简单的人 | https://steamcommunity.com/profiles/76561198829863126 |
