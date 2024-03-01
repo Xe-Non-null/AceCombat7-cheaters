@@ -94,7 +94,7 @@
 | JAGOHO44 | https://steamcommunity.com/profiles/76561199310017870 |
 | armoredgarmr | https://steamcommunity.com/profiles/76561198077024574 |
 | Staeni92 Youtube | https://steamcommunity.com/profiles/76561199412285976 |
-| Igor | https://steamcommunity.com/profiles/76561198990544647 |
+|  | https://steamcommunity.com/profiles/76561198990544647 |
 | iRatman_ | https://steamcommunity.com/profiles/76561198092502120 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
 | JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
@@ -102,7 +102,7 @@
 | 处处吻✈ | https://steamcommunity.com/profiles/76561198980204295 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
 | llllllllll | https://steamcommunity.com/profiles/76561198081430238 |
-| 21553190 | https://steamcommunity.com/profiles/76561199048027117 |
+|  | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [ACE] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
