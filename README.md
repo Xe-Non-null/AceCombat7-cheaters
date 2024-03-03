@@ -11,7 +11,7 @@
 | Bravo | https://steamcommunity.com/profiles/76561198850362167 |
 | Chuck | https://steamcommunity.com/profiles/76561198961226717 |
 | Mister Tartaria | https://steamcommunity.com/profiles/76561198994345306 |
-| 8675309 | https://steamcommunity.com/profiles/76561199216725193 |
+| 竜 | https://steamcommunity.com/profiles/76561199216725193 |
 | Crimson | https://steamcommunity.com/profiles/76561198256021122 |
 | 11전투비행단_F-15K | https://steamcommunity.com/profiles/76561198963991931 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
