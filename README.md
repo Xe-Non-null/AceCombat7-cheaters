@@ -4,7 +4,7 @@
 | ------ | ------ |
 | Moretti | https://steamcommunity.com/profiles/76561199117280140 |
 | 老司鸡 | https://steamcommunity.com/profiles/76561198443132230 |
-|  | https://steamcommunity.com/profiles/76561199590949305 |
+| CNEOS1-kryo | https://steamcommunity.com/profiles/76561199590949305 |
 | 吸我的鸡巴白痴 | https://steamcommunity.com/profiles/76561198829863126 |
 | RED-DAX-XIII | https://steamcommunity.com/profiles/76561198345323408 |
 | Filltap | https://steamcommunity.com/profiles/76561198151947614 |
