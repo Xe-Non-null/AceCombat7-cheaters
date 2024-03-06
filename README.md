@@ -2,7 +2,6 @@
 
 | name | steam URL |
 | ------ | ------ |
-| Taisamba | https://steamcommunity.com/profiles/76561199496733098 |
 | Moretti | https://steamcommunity.com/profiles/76561199117280140 |
 | 老司鸡 | https://steamcommunity.com/profiles/76561198443132230 |
 | CNEOS1-kryo | https://steamcommunity.com/profiles/76561199590949305 |
