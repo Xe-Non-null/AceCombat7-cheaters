@@ -32,12 +32,12 @@
 |  | https://steamcommunity.com/profiles/76561198426925179 |
 |  | https://steamcommunity.com/profiles/76561198101323037 |
 |  | https://steamcommunity.com/profiles/76561199229760980 |
-| MagmaDash | https://steamcommunity.com/profiles/76561199004004915 |
+|  | https://steamcommunity.com/profiles/76561199004004915 |
 |  | https://steamcommunity.com/profiles/76561198818703363 |
 |  | https://steamcommunity.com/profiles/76561198043036941 |
 |  | https://steamcommunity.com/profiles/76561198117229678 |
 |  | https://steamcommunity.com/profiles/76561199497116434 |
-|  | https://steamcommunity.com/profiles/76561198220391076 |
+| TheSpoodster | https://steamcommunity.com/profiles/76561198220391076 |
 |  | https://steamcommunity.com/profiles/76561198943227563 |
 |  | https://steamcommunity.com/profiles/76561199489780880 |
 |  | https://steamcommunity.com/profiles/76561198107387037 |
@@ -63,7 +63,7 @@
 |  | https://steamcommunity.com/profiles/76561198150304103 |
 |  | https://steamcommunity.com/profiles/76561199158658113 |
 |  | https://steamcommunity.com/profiles/76561198294378412 |
-| LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
+|  | https://steamcommunity.com/profiles/76561198143645427 |
 |  | https://steamcommunity.com/profiles/76561198982424786 |
 |  | https://steamcommunity.com/profiles/76561199535817299 |
 |  | https://steamcommunity.com/profiles/76561198177980518 |
@@ -113,7 +113,7 @@
 |  | https://steamcommunity.com/profiles/76561199086244180 |
 |  | https://steamcommunity.com/profiles/76561198084874424 |
 |  | https://steamcommunity.com/profiles/76561198108197134 |
-|  | https://steamcommunity.com/profiles/76561198407886594 |
+| WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
 |  | https://steamcommunity.com/profiles/76561198101337488 |
 |  | https://steamcommunity.com/profiles/76561198851216499 |
 |  | https://steamcommunity.com/profiles/76561198078057512 |
