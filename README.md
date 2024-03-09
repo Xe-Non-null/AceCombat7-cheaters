@@ -29,7 +29,7 @@
 | ATLAS | https://steamcommunity.com/profiles/76561198930833258 |
 | exolist393 | https://steamcommunity.com/profiles/76561199373637935 |
 | 蜡笔小蟹 | https://steamcommunity.com/profiles/76561199002216348 |
-| Crazystarwar140 | https://steamcommunity.com/profiles/76561198426925179 |
+| Crazystarwar | https://steamcommunity.com/profiles/76561198426925179 |
 | Max Caulfield | https://steamcommunity.com/profiles/76561198101323037 |
 | noodle the sneck | https://steamcommunity.com/profiles/76561199229760980 |
 | MagmaDash | https://steamcommunity.com/profiles/76561199004004915 |
