@@ -2,13 +2,14 @@
 
 | name | steam URL |
 | ------ | ------ |
+| Bravo | https://steamcommunity.com/profiles/76561198850362167 |
+| 拉登可能会死但我不会 | https://steamcommunity.com/profiles/76561199147471653 |
 | Moretti | https://steamcommunity.com/profiles/76561199117280140 |
 | 老司鸡 | https://steamcommunity.com/profiles/76561198443132230 |
 | CNEOS1-kryo | https://steamcommunity.com/profiles/76561199590949305 |
 | 吸我的鸡巴白痴 | https://steamcommunity.com/profiles/76561198829863126 |
 | RED-DAX-XIII | https://steamcommunity.com/profiles/76561198345323408 |
 | Filltap | https://steamcommunity.com/profiles/76561198151947614 |
-| Bravo | https://steamcommunity.com/profiles/76561198850362167 |
 | Chuck | https://steamcommunity.com/profiles/76561198961226717 |
 | Mister Tartaria | https://steamcommunity.com/profiles/76561198994345306 |
 | OsamaBinLaggin | https://steamcommunity.com/profiles/76561199216725193 |
