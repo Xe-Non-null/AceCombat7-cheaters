@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| 󠀡󠀡 | https://steamcommunity.com/profiles/76561199135446407 |
 | Bravo | https://steamcommunity.com/profiles/76561198850362167 |
 | 拉登可能会死但我不会 | https://steamcommunity.com/profiles/76561199147471653 |
 | Moretti | https://steamcommunity.com/profiles/76561199117280140 |
