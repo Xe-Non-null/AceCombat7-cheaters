@@ -57,11 +57,11 @@
 | 小智避开来 | https://steamcommunity.com/profiles/76561198075692143 |
 | Piccolo | https://steamcommunity.com/profiles/76561198817889927 |
 | Filp Bogle | https://steamcommunity.com/profiles/76561198328779734 |
-| WUHAN VIRUS | https://steamcommunity.com/profiles/76561199304050583 |
+|  | https://steamcommunity.com/profiles/76561199304050583 |
 | 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
 | Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
 | TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
-| spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
+|  | https://steamcommunity.com/profiles/76561198304384143 |
 | Ronin Eternal | https://steamcommunity.com/profiles/76561198150304103 |
 | 无瑕の小天使 | https://steamcommunity.com/profiles/76561199158658113 |
 | 夕阳武士与狗， | https://steamcommunity.com/profiles/76561198294378412 |
