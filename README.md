@@ -47,10 +47,10 @@
 | 밍창이 | https://steamcommunity.com/profiles/76561198145619796 |
 | Violet | https://steamcommunity.com/profiles/76561199140082027 |
 | ▲SimurG▼ | https://steamcommunity.com/profiles/76561199401367551 |
-| 高木さん世界で最高だ | https://steamcommunity.com/profiles/76561199025138813 |
-| Musgus | https://steamcommunity.com/profiles/76561198859884192 |
+|  | https://steamcommunity.com/profiles/76561199025138813 |
+|  | https://steamcommunity.com/profiles/76561198859884192 |
 | Scorpion King | https://steamcommunity.com/profiles/76561198038827316 |
-| 临琛 | https://steamcommunity.com/profiles/76561199474926894 |
+|  | https://steamcommunity.com/profiles/76561199474926894 |
 | เกิดในราชกาลที่ ๙ | https://steamcommunity.com/profiles/76561198398157745 |
 | pyg | https://steamcommunity.com/profiles/76561199227155475 |
 | ああ!ジャン・ルイがやられた! | https://steamcommunity.com/profiles/76561198301029341 |
