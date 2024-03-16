@@ -2,8 +2,8 @@
 
 | name | steam URL |
 | ------ | ------ |
+| OsamaBinLaggin | https://steamcommunity.com/profiles/76561199216725193 |
 | 󠀡󠀡 | https://steamcommunity.com/profiles/76561199135446407 |
-| Tsu | https://steamcommunity.com/profiles/76561198850362167 |
 | 拉登可能会死但我不会 | https://steamcommunity.com/profiles/76561199147471653 |
 | Moretti | https://steamcommunity.com/profiles/76561199117280140 |
 | 老司鸡 | https://steamcommunity.com/profiles/76561198443132230 |
@@ -13,7 +13,6 @@
 | Filltap | https://steamcommunity.com/profiles/76561198151947614 |
 | Chuck | https://steamcommunity.com/profiles/76561198961226717 |
 | Mister Tartaria | https://steamcommunity.com/profiles/76561198994345306 |
-| OsamaBinLaggin | https://steamcommunity.com/profiles/76561199216725193 |
 | Crimson | https://steamcommunity.com/profiles/76561198256021122 |
 | 11전투비행단_F-15K | https://steamcommunity.com/profiles/76561198963991931 |
 | Morgan | https://steamcommunity.com/profiles/76561199245272853 |
