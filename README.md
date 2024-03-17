@@ -60,7 +60,7 @@
 | 孫郎竟云何? | https://steamcommunity.com/profiles/76561198953392478 |
 | Khalezy | https://steamcommunity.com/profiles/76561199150963881 |
 | TANAKA Makio | https://steamcommunity.com/profiles/76561199036761417 |
-| spartus06 | https://steamcommunity.com/profiles/76561198304384143 |
+|  | https://steamcommunity.com/profiles/76561198304384143 |
 | Ronin Eternal | https://steamcommunity.com/profiles/76561198150304103 |
 | 无瑕の小天使 | https://steamcommunity.com/profiles/76561199158658113 |
 | 夕阳武士与狗， | https://steamcommunity.com/profiles/76561198294378412 |
@@ -106,7 +106,7 @@
 | 180.2 | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
-| [ACE] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
+|  | https://steamcommunity.com/profiles/76561198073103373 |
 | 𝓢𝓮𝓯𝓮𝓷𝓮 | https://steamcommunity.com/profiles/76561198209173436 |
 | 九_州 | https://steamcommunity.com/profiles/76561198973679329 |
 | FireBrand | https://steamcommunity.com/profiles/76561198026289985 |
