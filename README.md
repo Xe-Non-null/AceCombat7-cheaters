@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| OsamaBinLaggin | https://steamcommunity.com/profiles/76561199216725193 |
+| Torero | https://steamcommunity.com/profiles/76561199216725193 |
 | 󠀡󠀡 | https://steamcommunity.com/profiles/76561199135446407 |
 | 拉登可能会死但我不会 | https://steamcommunity.com/profiles/76561199147471653 |
 | Moretti | https://steamcommunity.com/profiles/76561199117280140 |
