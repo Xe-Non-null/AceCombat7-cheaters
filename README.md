@@ -119,7 +119,7 @@
 | 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
 | &lt;font color=rpg#FF3030&gt;Vigoss | https://steamcommunity.com/profiles/76561198078057512 |
 | 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
-|  | https://steamcommunity.com/profiles/76561199032447430 |
+| 印度人 | https://steamcommunity.com/profiles/76561199032447430 |
 | 网上比街上热闹 | https://steamcommunity.com/profiles/76561199028490431 |
 | GUOZI ! | https://steamcommunity.com/profiles/76561198445457868 |
 | Hydra9 | https://steamcommunity.com/profiles/76561198368034387 |
@@ -129,6 +129,6 @@
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
-|  | https://steamcommunity.com/profiles/76561198161141089 |
-|  | https://steamcommunity.com/profiles/76561198035733380 |
+| Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
+| Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
 | GT-Force | https://steamcommunity.com/profiles/76561198027532793 |
