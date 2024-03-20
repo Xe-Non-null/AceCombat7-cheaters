@@ -27,7 +27,7 @@
 | Солнце | https://steamcommunity.com/profiles/76561198898699339 |
 | caonimeigu | https://steamcommunity.com/profiles/76561199361973029 |
 | rudukwc13 | https://steamcommunity.com/profiles/76561199223936931 |
-|  | https://steamcommunity.com/profiles/76561198930833258 |
+| ATLAS | https://steamcommunity.com/profiles/76561198930833258 |
 | exolist393 | https://steamcommunity.com/profiles/76561199373637935 |
 | 蜡笔小蟹 | https://steamcommunity.com/profiles/76561199002216348 |
 | Crazystarwar | https://steamcommunity.com/profiles/76561198426925179 |
