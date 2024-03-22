@@ -98,7 +98,7 @@
 | Igor | https://steamcommunity.com/profiles/76561198990544647 |
 | iRatman_ | https://steamcommunity.com/profiles/76561198092502120 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
-| JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
+|  | https://steamcommunity.com/profiles/76561198030697690 |
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
 | 处处吻✈ | https://steamcommunity.com/profiles/76561198980204295 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
@@ -130,5 +130,5 @@
 | 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
 | Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
-| Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
+|  | https://steamcommunity.com/profiles/76561198035733380 |
 | GT-Force | https://steamcommunity.com/profiles/76561198027532793 |
