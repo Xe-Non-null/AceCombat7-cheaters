@@ -1,10 +1,9 @@
-# AceCombat7 cheaters
+# The update has been stopped, but the list is still valid, If you have any questions, please contact Bilibili Super丶A梦: https://space.bilibili.com/2099834748
 
 | name | steam URL |
 | ------ | ------ |
 | Torero | https://steamcommunity.com/profiles/76561199216725193 |
 | 󠀡󠀡 | https://steamcommunity.com/profiles/76561199135446407 |
-| 拉登可能会死但我不会 | https://steamcommunity.com/profiles/76561199147471653 |
 | Moretti | https://steamcommunity.com/profiles/76561199117280140 |
 | 老司鸡 | https://steamcommunity.com/profiles/76561198443132230 |
 | CNEOS1-kryo | https://steamcommunity.com/profiles/76561199590949305 |
