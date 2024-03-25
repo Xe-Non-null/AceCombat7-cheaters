@@ -15,7 +15,7 @@ do
 done
 echo ${cheaters_Name[*]}
 
-echo '# AceCombat7 cheaters
+echo '# The update has been stopped, but the list is still valid, If you have any questions, please contact Bilibili Super丶A梦: https://space.bilibili.com/2099834748
 
 | name | steam URL |
 | ------ | ------ |' > README.md
