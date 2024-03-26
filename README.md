@@ -2,6 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| Tsu | https://steamcommunity.com/profiles/76561198850362167 |
 | Torero | https://steamcommunity.com/profiles/76561199216725193 |
 | 󠀡󠀡 | https://steamcommunity.com/profiles/76561199135446407 |
 | Moretti | https://steamcommunity.com/profiles/76561199117280140 |
