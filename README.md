@@ -73,7 +73,7 @@
 | Storm | https://steamcommunity.com/profiles/76561198917360011 |
 | asennad | https://steamcommunity.com/profiles/76561199465912684 |
 | Stanstillplays | https://steamcommunity.com/profiles/76561198429941928 |
-| ярек | https://steamcommunity.com/profiles/76561198076214633 |
+| jjjjjjjjj | https://steamcommunity.com/profiles/76561198076214633 |
 | 2781923919 | https://steamcommunity.com/profiles/76561199168111744 |
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
