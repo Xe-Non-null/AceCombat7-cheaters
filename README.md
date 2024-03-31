@@ -3,6 +3,8 @@
 
 | name | steam URL |
 | ------ | ------ |
+| Enterprise | https://steamcommunity.com/profiles/76561198180593561 |
+| UK ACE VOICE | https://steamcommunity.com/profiles/76561198061906519 |
 | Cowbow | https://steamcommunity.com/profiles/76561198929532059 |
 | guivalla | https://steamcommunity.com/profiles/76561198379251619 |
 | Tsu | https://steamcommunity.com/profiles/76561198850362167 |
