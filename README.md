@@ -79,7 +79,7 @@
 | Ace_Mantis | https://steamcommunity.com/profiles/76561198301721995 |
 | GuiltySpark | https://steamcommunity.com/profiles/76561199507205763 |
 | Typhoon | https://steamcommunity.com/profiles/76561199363114608 |
-|  | https://steamcommunity.com/profiles/76561198396903167 |
+| La Gordah Muñones | https://steamcommunity.com/profiles/76561198396903167 |
 | alpha | https://steamcommunity.com/profiles/76561198319585202 |
 | Lunaso0 | https://steamcommunity.com/profiles/76561198046742690 |
 | Magnaef | https://steamcommunity.com/profiles/76561199433034628 |
