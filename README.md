@@ -3,6 +3,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| 陈CXHK | https://steamcommunity.com/profiles/76561199027978364 |
 | madsenskyler39 | https://steamcommunity.com/profiles/76561199530166685 |
 | Enterprise | https://steamcommunity.com/profiles/76561198180593561 |
 | guivalla | https://steamcommunity.com/profiles/76561198379251619 |
