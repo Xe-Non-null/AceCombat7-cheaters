@@ -3,6 +3,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| 532977060 | https://steamcommunity.com/profiles/76561198444660192 |
 | KINIX | https://steamcommunity.com/profiles/76561198367447457 |
 | SenkaiGPT | https://steamcommunity.com/profiles/76561199192410683 |
 | 陈CXHK | https://steamcommunity.com/profiles/76561199027978364 |
