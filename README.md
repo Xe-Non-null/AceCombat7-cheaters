@@ -3,6 +3,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| KINIX | https://steamcommunity.com/profiles/76561198367447457 |
 | SenkaiGPT | https://steamcommunity.com/profiles/76561199192410683 |
 | 陈CXHK | https://steamcommunity.com/profiles/76561199027978364 |
 | madsenskyler39 | https://steamcommunity.com/profiles/76561199530166685 |
