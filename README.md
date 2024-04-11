@@ -108,10 +108,10 @@
 | Igor | https://steamcommunity.com/profiles/76561198990544647 |
 | iRatman_ | https://steamcommunity.com/profiles/76561198092502120 |
 | Deliver Us | https://steamcommunity.com/profiles/76561198043433411 |
-| JAIGAYRAY | https://steamcommunity.com/profiles/76561198030697690 |
+|  | https://steamcommunity.com/profiles/76561198030697690 |
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
 | 处处吻✈ | https://steamcommunity.com/profiles/76561198980204295 |
-| jackykh | https://steamcommunity.com/profiles/76561198083979694 |
+|  | https://steamcommunity.com/profiles/76561198083979694 |
 | 180 | https://steamcommunity.com/profiles/76561198081430238 |
 | 180.2 | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
