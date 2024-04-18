@@ -3,6 +3,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| siz.sawaf | https://steamcommunity.com/profiles/76561198861931833 |
 | el_cafezon | https://steamcommunity.com/profiles/76561198330062913 |
 | CIWS | https://steamcommunity.com/profiles/76561199496733098 |
 | wawawa | https://steamcommunity.com/profiles/76561198379251619 |
