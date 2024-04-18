@@ -66,7 +66,7 @@
 | Scorpion King | https://steamcommunity.com/profiles/76561198038827316 |
 | 临琛 | https://steamcommunity.com/profiles/76561199474926894 |
 | ใส่เสื้อแดงรักทักษิณ | https://steamcommunity.com/profiles/76561198398157745 |
-| pyXg | https://steamcommunity.com/profiles/76561199227155475 |
+| cooked salad with melon | https://steamcommunity.com/profiles/76561199227155475 |
 | ナンとピロシキ | https://steamcommunity.com/profiles/76561198301029341 |
 | 小智避开来 | https://steamcommunity.com/profiles/76561198075692143 |
 | Piccolo | https://steamcommunity.com/profiles/76561198817889927 |
