@@ -13,7 +13,6 @@
 | Aerospace8 | https://steamcommunity.com/profiles/76561198117229678 |
 | Rustinoid Prime | https://steamcommunity.com/profiles/76561199154859343 |
 | 1095033923 | https://steamcommunity.com/profiles/76561198358276789 |
-| wawawa | https://steamcommunity.com/profiles/76561198379251619 |
 | 532977060 | https://steamcommunity.com/profiles/76561198444660192 |
 | KINIX | https://steamcommunity.com/profiles/76561198367447457 |
 | SenkaiGPT | https://steamcommunity.com/profiles/76561199192410683 |
