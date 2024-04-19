@@ -3,6 +3,7 @@
 
 | name | steam URL |
 | ------ | ------ |
+| 不忘初心 | https://steamcommunity.com/profiles/76561199581609988 |
 | siz.sawaf | https://steamcommunity.com/profiles/76561198861931833 |
 | el_cafezon | https://steamcommunity.com/profiles/76561198330062913 |
 | CIWS | https://steamcommunity.com/profiles/76561199496733098 |
