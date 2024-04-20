@@ -18,7 +18,7 @@ echo ${cheaters_Name[*]}
 echo '# AceCombat7 cheaters
 
 
-| name | steam URL |
+| 游戏内ID | steam URL |
 | ------ | ------ |' > README.md
 
 j=0
