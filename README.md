@@ -1,15 +1,15 @@
 # AceCombat7 cheaters
 
 
-| 游戏内ID | 行为 | steam URL | 注释 |
+| Name | Former name | Steam URL | Note |
 | ------ | ------ | ------ | ------ |
-| siz.sawaf | 修改武器数据 | https://steamcommunity.com/profiles/76561198861931833 |  |
+| siz.sawaf |  | https://steamcommunity.com/profiles/76561198861931833 |  |
 | 处处吻✈ |  | https://steamcommunity.com/profiles/76561198980204295 |  |
 | Aerospace8 |  | https://steamcommunity.com/profiles/76561198117229678 |  |
-| 不忘初心 | 修改武器数据 | https://steamcommunity.com/profiles/76561199581609988 |  |
+| 不忘初心 |  | https://steamcommunity.com/profiles/76561199581609988 |  |
 | el_cafezon |  | https://steamcommunity.com/profiles/76561198330062913 |  |
 | CIWS |  | https://steamcommunity.com/profiles/76561199496733098 |  |
-| wawawa | 无限速PSM | https://steamcommunity.com/profiles/76561198379251619 | 曾用ID:guivalla |
+| wawawa | guivalla | https://steamcommunity.com/profiles/76561198379251619 |  |
 | YMB_GRIM REAPERS |  | https://steamcommunity.com/profiles/76561199501593849 |  |
 | Rustinoid Prime |  | https://steamcommunity.com/profiles/76561199154859343 |  |
 | 1095033923 |  | https://steamcommunity.com/profiles/76561198358276789 |  |
