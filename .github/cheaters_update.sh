@@ -37,7 +37,7 @@ echo ${cheaters_Name[*]}
 echo '# AceCombat7 cheaters
 
 
-| Name | ID | Ailases | Note |
+| Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |' > README.md
 
 j=0
