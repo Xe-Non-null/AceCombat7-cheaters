@@ -37,13 +37,13 @@ echo ${cheaters_Name[*]}
 echo '# AceCombat7 cheaters
 
 
-| ID | Ailases | Note |
-| ------ | ------ | ------ |' > README.md
+| Name | Ailases | ID | Note |
+| ------ | ------ | ------ | ------ |' > README.md
 
 j=0
 while (($j<i))
 do
-	echo '#####| '${cheaters_Name[$j]}'[https://steamcommunity.com/profiles/'${cheaters_ID[$j]:0:17}'] | '${cheaters_Aliases[$j]}' | '${cheaters_Comment[$j]}' |' >> README.md
+	echo '#####| '${cheaters_Name[$j]}' | '${cheaters_Aliases[$j]}' | ['${cheaters_ID[$j]:0:17}'](https://steamcommunity.com/profiles/'${cheaters_ID[$j]:0:17}') | '${cheaters_Comment[$j]}' |' >> README.md
 	let 'j++'
 done
 
