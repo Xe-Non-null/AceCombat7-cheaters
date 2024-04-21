@@ -50,12 +50,12 @@
 | Max Caulfield | [76561198101323037](https://steamcommunity.com/profiles/76561198101323037) |  |  |
 | noodle the sneck | [76561199229760980](https://steamcommunity.com/profiles/76561199229760980) |  |  |
 | MagmaDash | [76561199004004915](https://steamcommunity.com/profiles/76561199004004915) |  |  |
-| OOXX | [76561198818703363](https://steamcommunity.com/profiles/76561198818703363) | 3D |  |
+| OOXX | [76561198818703363](https://steamcommunity.com/profiles/76561198818703363) |  | 3D |
 | ControlC | [76561198043036941](https://steamcommunity.com/profiles/76561198043036941) |  |  |
 | Skyondream | [76561199497116434](https://steamcommunity.com/profiles/76561199497116434) |  |  |
 | TheSpoodster | [76561198220391076](https://steamcommunity.com/profiles/76561198220391076) |  |  |
 | 养生的鱼噢 | [76561198943227563](https://steamcommunity.com/profiles/76561198943227563) |  |  |
-| Mike Hunt | [76561199489780880](https://steamcommunity.com/profiles/76561199489780880) | Mik | Mike |
+| Mike Hunt | [76561199489780880](https://steamcommunity.com/profiles/76561199489780880) | Mike |  |
 |  | [76561198107387037](https://steamcommunity.com/profiles/76561198107387037) |  |  |
 | master1337 | [76561198955687025](https://steamcommunity.com/profiles/76561198955687025) |  |  |
 | 龙若琳 | [76561198145619796](https://steamcommunity.com/profiles/76561198145619796) |  |  |
