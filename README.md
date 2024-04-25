@@ -3,7 +3,8 @@
 
 | Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |
-| ASJ | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | Ry0 |  |
+| ASJ | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
+| CNEOS1-kryo | [76561199590949305](https://steamcommunity.com/profiles/76561199590949305) |  |  |
 | RougeLarme | [76561198018473837](https://steamcommunity.com/profiles/76561198018473837) |  |  |
 | ShadowGamer101st | [76561198008523364](https://steamcommunity.com/profiles/76561198008523364) | ShadowGamer101st |  |
 | 处处吻✈ | [76561198980204295](https://steamcommunity.com/profiles/76561198980204295) |  |  |
@@ -26,7 +27,6 @@
 | 󠀡󠀡 | [76561199135446407](https://steamcommunity.com/profiles/76561199135446407) |  |  |
 | Moretti | [76561199117280140](https://steamcommunity.com/profiles/76561199117280140) |  |  |
 | 老司鸡 | [76561198443132230](https://steamcommunity.com/profiles/76561198443132230) |  |  |
-| CNEOS1-kryo | [76561199590949305](https://steamcommunity.com/profiles/76561199590949305) |  |  |
 | Overlord | [76561198829863126](https://steamcommunity.com/profiles/76561198829863126) | Skyle@der |  |
 | RED-DAX-XIII | [76561198345323408](https://steamcommunity.com/profiles/76561198345323408) |  |  |
 | Filltap | [76561198151947614](https://steamcommunity.com/profiles/76561198151947614) |  |  |
