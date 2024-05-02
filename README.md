@@ -69,13 +69,13 @@
 | ▲SimurG▼ | [76561198859884192](https://steamcommunity.com/profiles/76561198859884192) |  |  |
 | 高木さん世界で最高だ | [76561198038827316](https://steamcommunity.com/profiles/76561198038827316) |  |  |
 | Musgus | [76561199474926894](https://steamcommunity.com/profiles/76561199474926894) |  |  |
-| Scorpion King | [76561198398157745](https://steamcommunity.com/profiles/76561198398157745) |  |  |
+|  | [76561198398157745](https://steamcommunity.com/profiles/76561198398157745) |  |  |
 | 临琛 | [76561199227155475](https://steamcommunity.com/profiles/76561199227155475) |  |  |
 | Love Taksin | [76561198301029341](https://steamcommunity.com/profiles/76561198301029341) |  |  |
 | busy man 0n work days | [76561198075692143](https://steamcommunity.com/profiles/76561198075692143) |  |  |
 | ナンとピロシキ | [76561198817889927](https://steamcommunity.com/profiles/76561198817889927) | 田中脊髄剣 |  |
 | 小智避开来 | [76561198328779734](https://steamcommunity.com/profiles/76561198328779734) |  |  |
-| Piccolo | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  |  |
+|  | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  |  |
 | Filp Bogle | [76561198953392478](https://steamcommunity.com/profiles/76561198953392478) |  |  |
 | WUHAN VIRUS | [76561199150963881](https://steamcommunity.com/profiles/76561199150963881) |  |  |
 | 孫郎竟云何? | [76561199036761417](https://steamcommunity.com/profiles/76561199036761417) |  |  |
@@ -103,7 +103,7 @@
 | Magnaef | [76561199216430196](https://steamcommunity.com/profiles/76561199216430196) |  |  |
 | Divinity | [76561198127073615](https://steamcommunity.com/profiles/76561198127073615) |  |  |
 | PrayerAnswer | [76561198854660782](https://steamcommunity.com/profiles/76561198854660782) |  |  |
-| DagZede | [76561199378969003](https://steamcommunity.com/profiles/76561199378969003) |  |  |
+|  | [76561199378969003](https://steamcommunity.com/profiles/76561199378969003) |  |  |
 | seanpowellonemanband | [76561198012246719](https://steamcommunity.com/profiles/76561198012246719) |  |  |
 | toonistiny | [76561199438934867](https://steamcommunity.com/profiles/76561199438934867) |  |  |
 | Domehead | [76561198281111612](https://steamcommunity.com/profiles/76561198281111612) |  |  |
@@ -117,7 +117,7 @@
 | armoredgarmr | [76561198990544647](https://steamcommunity.com/profiles/76561198990544647) |  |  |
 | Staeni92 Youtube | [76561198092502120](https://steamcommunity.com/profiles/76561198092502120) |  |  |
 | Cog | [76561198043433411](https://steamcommunity.com/profiles/76561198043433411) |  |  |
-| iRatman_ | [76561198030697690](https://steamcommunity.com/profiles/76561198030697690) |  |  |
+|  | [76561198030697690](https://steamcommunity.com/profiles/76561198030697690) |  |  |
 | Deliver Us | [76561198938976695](https://steamcommunity.com/profiles/76561198938976695) |  |  |
 | JAIGAYRAY | [76561198083979694](https://steamcommunity.com/profiles/76561198083979694) |  |  |
 | 清风班春 | [76561198081430238](https://steamcommunity.com/profiles/76561198081430238) |  |  |
