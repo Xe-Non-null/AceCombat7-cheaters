@@ -17,7 +17,7 @@
 | Aerospace8 | [76561198117229678](https://steamcommunity.com/profiles/76561198117229678) |  |  |
 | 不忘初心 | [76561199581609988](https://steamcommunity.com/profiles/76561199581609988) |  |  |
 | el_cafezon | [76561198330062913](https://steamcommunity.com/profiles/76561198330062913) |  |  |
-| CIWS | [76561199496733098](https://steamcommunity.com/profiles/76561199496733098) | ND-HE |  |
+| Cyrax | [76561199496733098](https://steamcommunity.com/profiles/76561199496733098) | ND-HE |  |
 | wawawa | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla |  |
 | YMB_GRIM REAPERS | [76561199501593849](https://steamcommunity.com/profiles/76561199501593849) |  |  |
 | Rustinoid Prime | [76561199154859343](https://steamcommunity.com/profiles/76561199154859343) | KRSW&#32;Lord |  |
