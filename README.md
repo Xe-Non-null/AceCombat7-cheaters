@@ -30,7 +30,7 @@
 | Enterprise | [76561198180593561](https://steamcommunity.com/profiles/76561198180593561) |  |  |
 | Tsu | [76561198850362167](https://steamcommunity.com/profiles/76561198850362167) | Bravo |  |
 | Torero | [76561199216725193](https://steamcommunity.com/profiles/76561199216725193) | Skyfire |  |
-| 󠀡󠀡 | [76561199135446407](https://steamcommunity.com/profiles/76561199135446407) |  |  |
+|  | [76561199135446407](https://steamcommunity.com/profiles/76561199135446407) |  |  |
 | Moretti | [76561199117280140](https://steamcommunity.com/profiles/76561199117280140) |  |  |
 | 老司鸡 | [76561198443132230](https://steamcommunity.com/profiles/76561198443132230) |  |  |
 | Overlord | [76561198829863126](https://steamcommunity.com/profiles/76561198829863126) | Skyle@der |  |
@@ -44,7 +44,7 @@
 | MikeAboose | [76561198103844413](https://steamcommunity.com/profiles/76561198103844413) |  |  |
 | Hellpiercer | [76561199221096519](https://steamcommunity.com/profiles/76561199221096519) |  |  |
 | Dredd | [76561199229848829](https://steamcommunity.com/profiles/76561199229848829) |  |  |
-| minakosenpai | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
+|  | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
 | Teniente Muffin | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
 | [IC-01] Crimson 1 | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) |  |  |
 | Солнце | [76561198898699339](https://steamcommunity.com/profiles/76561198898699339) |  |  |
@@ -129,14 +129,14 @@
 | .i. | [76561198107896591](https://steamcommunity.com/profiles/76561198107896591) |  |  |
 | Genius | [76561198839646162](https://steamcommunity.com/profiles/76561198839646162) |  |  |
 | [ACE] RAPTOR | [76561198073103373](https://steamcommunity.com/profiles/76561198073103373) |  |  |
-|  | [76561198209173436](https://steamcommunity.com/profiles/76561198209173436) |  |  |
-|  | [76561198973679329](https://steamcommunity.com/profiles/76561198973679329) |  |  |
-|  | [76561198026289985](https://steamcommunity.com/profiles/76561198026289985) |  |  |
-|  | [76561199070000800](https://steamcommunity.com/profiles/76561199070000800) |  |  |
-|  | [76561199086244180](https://steamcommunity.com/profiles/76561199086244180) |  |  |
-|  | [76561198084874424](https://steamcommunity.com/profiles/76561198084874424) |  |  |
-|  | [76561198108197134](https://steamcommunity.com/profiles/76561198108197134) |  |  |
-|  | [76561198407886594](https://steamcommunity.com/profiles/76561198407886594) |  |  |
+| Suranlax | [76561198209173436](https://steamcommunity.com/profiles/76561198209173436) |  |  |
+| 九_州 | [76561198973679329](https://steamcommunity.com/profiles/76561198973679329) |  |  |
+| FireBrand | [76561198026289985](https://steamcommunity.com/profiles/76561198026289985) |  |  |
+| 老七 | [76561199070000800](https://steamcommunity.com/profiles/76561199070000800) |  |  |
+| you kick me cuz ure bad | [76561199086244180](https://steamcommunity.com/profiles/76561199086244180) |  |  |
+| Radder | [76561198084874424](https://steamcommunity.com/profiles/76561198084874424) |  |  |
+| ..&#124;.. | [76561198108197134](https://steamcommunity.com/profiles/76561198108197134) |  |  |
+| WisdomTong | [76561198407886594](https://steamcommunity.com/profiles/76561198407886594) |  |  |
 | ATHOOD | [76561198101337488](https://steamcommunity.com/profiles/76561198101337488) |  |  |
 | 一个不正经的老头 | [76561198851216499](https://steamcommunity.com/profiles/76561198851216499) |  |  |
 | &lt;font color=rpg#FF3030&gt;Vigoss | [76561198078057512](https://steamcommunity.com/profiles/76561198078057512) |  |  |
