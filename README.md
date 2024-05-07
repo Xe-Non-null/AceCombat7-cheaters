@@ -44,7 +44,7 @@
 | MikeAboose | [76561198103844413](https://steamcommunity.com/profiles/76561198103844413) |  |  |
 | Hellpiercer | [76561199221096519](https://steamcommunity.com/profiles/76561199221096519) |  |  |
 | Dredd | [76561199229848829](https://steamcommunity.com/profiles/76561199229848829) |  |  |
-| minakosenpai | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
+|  | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
 | Teniente Muffin | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
 | [IC-01] Crimson 1 | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) |  |  |
 | Солнце | [76561198898699339](https://steamcommunity.com/profiles/76561198898699339) |  |  |
