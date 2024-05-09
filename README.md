@@ -62,7 +62,7 @@
 | Skyondream | [76561199497116434](https://steamcommunity.com/profiles/76561199497116434) |  |  |
 | TheSpoodster | [76561198220391076](https://steamcommunity.com/profiles/76561198220391076) |  |  |
 | 养生的鱼噢 | [76561198943227563](https://steamcommunity.com/profiles/76561198943227563) |  |  |
-| Mike Hunt | [76561199489780880](https://steamcommunity.com/profiles/76561199489780880) | Mike&#32;Hunt |  |
+|  | [76561199489780880](https://steamcommunity.com/profiles/76561199489780880) | Mike&#32;Hunt |  |
 | CHINESE DRONE | [76561199247196637](https://steamcommunity.com/profiles/76561199247196637) | 奥西亚无人机 |  |
 | master1337 | [76561198107387037](https://steamcommunity.com/profiles/76561198107387037) |  |  |
 | 龙若琳 | [76561198955687025](https://steamcommunity.com/profiles/76561198955687025) |  |  |
@@ -116,7 +116,7 @@
 | 1654391949 | [76561199071839304](https://steamcommunity.com/profiles/76561199071839304) |  |  |
 | CPLA | [76561199390199106](https://steamcommunity.com/profiles/76561199390199106) |  |  |
 | JAGOHO44 | [76561199310017870](https://steamcommunity.com/profiles/76561199310017870) |  |  |
-| /aceg/ armoredgarmr | [76561198077024574](https://steamcommunity.com/profiles/76561198077024574) |  |  |
+| armoredgarmr | [76561198077024574](https://steamcommunity.com/profiles/76561198077024574) |  |  |
 | Staeni92 Youtube | [76561199412285976](https://steamcommunity.com/profiles/76561199412285976) |  |  |
 | Igor | [76561198990544647](https://steamcommunity.com/profiles/76561198990544647) |  |  |
 | iRatman_ | [76561198092502120](https://steamcommunity.com/profiles/76561198092502120) |  |  |
