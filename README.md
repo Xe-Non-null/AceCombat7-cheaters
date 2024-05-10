@@ -9,7 +9,7 @@
 | Grifter | [76561199559791137](https://steamcommunity.com/profiles/76561199559791137) |  |  |
 | K0T3TSU | [76561198349602018](https://steamcommunity.com/profiles/76561198349602018) |  |  |
 | Colonel Cipher | [76561198074076241](https://steamcommunity.com/profiles/76561198074076241) | Colonel&#32;Cipher |  |
-| 斯大林的详细历史应该作为中学生的必修课 | [76561198144072073](https://steamcommunity.com/profiles/76561198144072073) |  |  |
+| 谎言在美国畅通无阻,而真相在苏联却无法传播 | [76561198144072073](https://steamcommunity.com/profiles/76561198144072073) |  |  |
 | jjthesteve000 | [76561198893141948](https://steamcommunity.com/profiles/76561198893141948) |  |  |
 | ASJ | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
 | CNEOS1-kryo | [76561199590949305](https://steamcommunity.com/profiles/76561199590949305) |  |  |
