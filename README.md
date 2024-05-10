@@ -9,7 +9,7 @@
 | Grifter | [76561199559791137](https://steamcommunity.com/profiles/76561199559791137) |  |  |
 | K0T3TSU | [76561198349602018](https://steamcommunity.com/profiles/76561198349602018) |  |  |
 | Colonel Cipher | [76561198074076241](https://steamcommunity.com/profiles/76561198074076241) | Colonel&#32;Cipher |  |
-| 朝鲜是苏联终极奴隶制活化石,饥饿,苦役,感恩 | [76561198144072073](https://steamcommunity.com/profiles/76561198144072073) |  |  |
+| 朝鲜是苏联终极奴隶制活化石,饥饿,苦役,感恩 | [76561198144072073](https://steamcommunity.com/profiles/76561198144072073) | zhuonghui001 |  |
 | jjthesteve000 | [76561198893141948](https://steamcommunity.com/profiles/76561198893141948) |  |  |
 | KKXIs | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
 | CNEOS1-kryo | [76561199590949305](https://steamcommunity.com/profiles/76561199590949305) |  |  |
