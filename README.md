@@ -19,7 +19,7 @@
 | ShadowGamer101st | [76561198008523364](https://steamcommunity.com/profiles/76561198008523364) | ShadowGamer101st |  |
 | 处处吻✈ | [76561198980204295](https://steamcommunity.com/profiles/76561198980204295) |  |  |
 | Aerospace8 | [76561198117229678](https://steamcommunity.com/profiles/76561198117229678) |  |  |
-| 不忘初心 | [76561199581609988](https://steamcommunity.com/profiles/76561199581609988) |  |  |
+| DJmax | [76561199581609988](https://steamcommunity.com/profiles/76561199581609988) |  |  |
 | el_cafezon | [76561198330062913](https://steamcommunity.com/profiles/76561198330062913) |  |  |
 | Cyrax | [76561199496733098](https://steamcommunity.com/profiles/76561199496733098) | ND-HE |  |
 | wawawa | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla |  |
