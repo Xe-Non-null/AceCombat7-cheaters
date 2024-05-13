@@ -3,6 +3,7 @@
 
 | Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |
+| Good_Great | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
 | NH the Introvert | [76561198055477808](https://steamcommunity.com/profiles/76561198055477808) |  |  |
 | goosethegooseyboose | [76561199122312731](https://steamcommunity.com/profiles/76561199122312731) |  |  |
 | Mostri2050 | [76561198876580116](https://steamcommunity.com/profiles/76561198876580116) |  |  |
@@ -42,7 +43,6 @@
 | Chuck | [76561198961226717](https://steamcommunity.com/profiles/76561198961226717) |  |  |
 | Strider | [76561198994345306](https://steamcommunity.com/profiles/76561198994345306) | Mister&#32;Tartaria |  |
 | Crimson | [76561198256021122](https://steamcommunity.com/profiles/76561198256021122) |  |  |
-| Good_Great | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
 | Morgan | [76561199245272853](https://steamcommunity.com/profiles/76561199245272853) |  |  |
 | MikeAboose | [76561198103844413](https://steamcommunity.com/profiles/76561198103844413) |  |  |
 | Hellpiercer | [76561199221096519](https://steamcommunity.com/profiles/76561199221096519) |  |  |
