@@ -3,6 +3,7 @@
 
 | Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |
+| Солнце | [76561198898699339](https://steamcommunity.com/profiles/76561198898699339) |  |  |
 | Good_Great | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
 | Ko6Sk | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
 | NH the Introvert | [76561198055477808](https://steamcommunity.com/profiles/76561198055477808) |  |  |
@@ -13,7 +14,7 @@
 | Grifter | [76561199559791137](https://steamcommunity.com/profiles/76561199559791137) |  |  |
 | K0T3TSU | [76561198349602018](https://steamcommunity.com/profiles/76561198349602018) |  |  |
 | Colonel Cipher | [76561198074076241](https://steamcommunity.com/profiles/76561198074076241) | Colonel&#32;Cipher |  |
-| 军人扮成农民渔民打仗,真农民渔民怎么办？ | [76561198144072073](https://steamcommunity.com/profiles/76561198144072073) | zhuonghui001 |  |
+| 军人扮成农民渔民打仗,真农民渔民怎么办？ | [76561198144072073](https://steamcommunity.com/profiles/76561198144072073) | zhuonghui0001 |  |
 | jjthesteve000 | [76561198893141948](https://steamcommunity.com/profiles/76561198893141948) |  |  |
 | CNEOS1-kryo | [76561199590949305](https://steamcommunity.com/profiles/76561199590949305) |  |  |
 | RougeLarme | [76561198018473837](https://steamcommunity.com/profiles/76561198018473837) |  |  |
@@ -50,7 +51,6 @@
 | minakosenpai | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
 | Teniente Muffin | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
 | [IC-01] Crimson 1 | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) |  |  |
-| Солнце | [76561198898699339](https://steamcommunity.com/profiles/76561198898699339) |  |  |
 | caonimeigu | [76561199361973029](https://steamcommunity.com/profiles/76561199361973029) |  |  |
 | rudukwc13 | [76561199223936931](https://steamcommunity.com/profiles/76561199223936931) |  |  |
 | ATLAS | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
