@@ -4,6 +4,7 @@
 | Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |
 | Good_Great | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
+| Ko6Sk | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
 | NH the Introvert | [76561198055477808](https://steamcommunity.com/profiles/76561198055477808) |  |  |
 | goosethegooseyboose | [76561199122312731](https://steamcommunity.com/profiles/76561199122312731) |  |  |
 | Mostri2050 | [76561198876580116](https://steamcommunity.com/profiles/76561198876580116) |  |  |
@@ -14,7 +15,6 @@
 | Colonel Cipher | [76561198074076241](https://steamcommunity.com/profiles/76561198074076241) | Colonel&#32;Cipher |  |
 | 军人扮成农民渔民打仗,真农民渔民怎么办？ | [76561198144072073](https://steamcommunity.com/profiles/76561198144072073) | zhuonghui001 |  |
 | jjthesteve000 | [76561198893141948](https://steamcommunity.com/profiles/76561198893141948) |  |  |
-| Ko6Sk | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
 | CNEOS1-kryo | [76561199590949305](https://steamcommunity.com/profiles/76561199590949305) |  |  |
 | RougeLarme | [76561198018473837](https://steamcommunity.com/profiles/76561198018473837) |  |  |
 | ShadowGamer101st | [76561198008523364](https://steamcommunity.com/profiles/76561198008523364) | ShadowGamer101st |  |
