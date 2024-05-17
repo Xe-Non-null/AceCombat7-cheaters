@@ -5,6 +5,7 @@
 | ------ | ------ | ------ | ------ |
 | Солнце | [76561198898699339](https://steamcommunity.com/profiles/76561198898699339) |  |  |
 | Good_Great | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
+| el_cafezon | [76561198330062913](https://steamcommunity.com/profiles/76561198330062913) |  |  |
 | Ko6Sk | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
 | NH the Introvert | [76561198055477808](https://steamcommunity.com/profiles/76561198055477808) |  |  |
 | goosethegooseyboose | [76561199122312731](https://steamcommunity.com/profiles/76561199122312731) |  |  |
@@ -22,7 +23,6 @@
 | 处处吻✈ | [76561198980204295](https://steamcommunity.com/profiles/76561198980204295) |  |  |
 | Aerospace8 | [76561198117229678](https://steamcommunity.com/profiles/76561198117229678) |  |  |
 | DJmax | [76561199581609988](https://steamcommunity.com/profiles/76561199581609988) |  |  |
-| el_cafezon | [76561198330062913](https://steamcommunity.com/profiles/76561198330062913) |  |  |
 | Cyrax | [76561199496733098](https://steamcommunity.com/profiles/76561199496733098) | ND-HE |  |
 | wawawa | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla |  |
 | YMB_GRIM REAPERS | [76561199501593849](https://steamcommunity.com/profiles/76561199501593849) |  |  |
