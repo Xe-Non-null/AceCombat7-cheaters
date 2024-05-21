@@ -10,7 +10,7 @@
 | NH the Introvert | [76561198055477808](https://steamcommunity.com/profiles/76561198055477808) |  |  |
 | goosethegooseyboose | [76561199122312731](https://steamcommunity.com/profiles/76561199122312731) |  |  |
 | Mostri2050 | [76561198876580116](https://steamcommunity.com/profiles/76561198876580116) |  |  |
-|  | [76561198359448207](https://steamcommunity.com/profiles/76561198359448207) |  |  |
+| kasuito2555 | [76561198359448207](https://steamcommunity.com/profiles/76561198359448207) |  |  |
 | Z-SER-0 | [76561199214790001](https://steamcommunity.com/profiles/76561199214790001) | ViperZER0 |  |
 | Grifter | [76561199559791137](https://steamcommunity.com/profiles/76561199559791137) |  |  |
 | K0T3TSU | [76561198349602018](https://steamcommunity.com/profiles/76561198349602018) |  |  |
@@ -25,7 +25,7 @@
 | DJmax | [76561199581609988](https://steamcommunity.com/profiles/76561199581609988) |  |  |
 | Cyrax | [76561199496733098](https://steamcommunity.com/profiles/76561199496733098) | ND-HE |  |
 | wawawa | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla |  |
-|  | [76561199501593849](https://steamcommunity.com/profiles/76561199501593849) |  |  |
+| YMB_GRIM REAPERS | [76561199501593849](https://steamcommunity.com/profiles/76561199501593849) |  |  |
 | For Answer | [76561199154859343](https://steamcommunity.com/profiles/76561199154859343) | KRSW&#32;Lord |  |
 | 1095033923 | [76561198358276789](https://steamcommunity.com/profiles/76561198358276789) |  |  |
 | 532977060 | [76561198444660192](https://steamcommunity.com/profiles/76561198444660192) |  |  |
