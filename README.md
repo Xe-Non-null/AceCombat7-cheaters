@@ -3,6 +3,7 @@
 
 | Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |
+| elna82 | [76561198389918662](https://steamcommunity.com/profiles/76561198389918662) |  |  |
 | Focker | [76561198279192884](https://steamcommunity.com/profiles/76561198279192884) |  |  |
 | Солнце | [76561198898699339](https://steamcommunity.com/profiles/76561198898699339) |  |  |
 | 대한민국공군 F-15K | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
