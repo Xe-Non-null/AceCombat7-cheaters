@@ -3,6 +3,8 @@
 
 | Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |
+| caonimeigu | [76561199361973029](https://steamcommunity.com/profiles/76561199361973029) |  |  |
+| Malkars | [76561199543154000](https://steamcommunity.com/profiles/76561199543154000) |  |  |
 | rafapt420 | [76561199549314093](https://steamcommunity.com/profiles/76561199549314093) |  |  |
 | elna82 | [76561198389918662](https://steamcommunity.com/profiles/76561198389918662) |  |  |
 | Mihaly Dumitru A. Shilage. | [76561198279192884](https://steamcommunity.com/profiles/76561198279192884) |  |  |
@@ -54,7 +56,6 @@
 | minakosenpai | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
 | Teniente Muffin | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
 | Tokisaki Kurumi | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) |  |  |
-| caonimeigu | [76561199361973029](https://steamcommunity.com/profiles/76561199361973029) |  |  |
 | rudukwc13 | [76561199223936931](https://steamcommunity.com/profiles/76561199223936931) |  |  |
 | ATLAS | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
 | exolist393 | [76561199373637935](https://steamcommunity.com/profiles/76561199373637935) |  |  |
