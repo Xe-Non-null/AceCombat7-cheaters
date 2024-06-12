@@ -83,7 +83,7 @@
 | Scorpion King | [76561198038827316](https://steamcommunity.com/profiles/76561198038827316) |  |  |
 | 临琛 | [76561199474926894](https://steamcommunity.com/profiles/76561199474926894) | 风卷尘生 |  |
 | Who Killed Captain Alex | [76561198398157745](https://steamcommunity.com/profiles/76561198398157745) |  |  |
-| 2JZ | [76561199227155475](https://steamcommunity.com/profiles/76561199227155475) |  |  |
+| seven rings in hand | [76561199227155475](https://steamcommunity.com/profiles/76561199227155475) |  |  |
 | ナンとピロシキ | [76561198301029341](https://steamcommunity.com/profiles/76561198301029341) | 田中脊髄剣 |  |
 | 小智避开来 | [76561198075692143](https://steamcommunity.com/profiles/76561198075692143) |  |  |
 | Piccolo | [76561198817889927](https://steamcommunity.com/profiles/76561198817889927) |  |  |
