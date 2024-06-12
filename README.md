@@ -3,6 +3,9 @@
 
 | Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |
+| Ko6Sk | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
+| shenghua3949 | [76561198003231591](https://steamcommunity.com/profiles/76561198003231591) |  |  |
+| LunarLionel470XD | [76561198299775669](https://steamcommunity.com/profiles/76561198299775669) |  |  |
 | caonimeigu | [76561199361973029](https://steamcommunity.com/profiles/76561199361973029) |  |  |
 | Malkars | [76561199543154000](https://steamcommunity.com/profiles/76561199543154000) |  |  |
 | rafapt420 | [76561199549314093](https://steamcommunity.com/profiles/76561199549314093) |  |  |
@@ -11,7 +14,6 @@
 | Солнце | [76561198898699339](https://steamcommunity.com/profiles/76561198898699339) |  |  |
 | Robber ICE | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
 | el_cafezon | [76561198330062913](https://steamcommunity.com/profiles/76561198330062913) |  |  |
-| Ko6Sk | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
 | Grifter | [76561199559791137](https://steamcommunity.com/profiles/76561199559791137) |  |  |
 | NH the Introvert | [76561198055477808](https://steamcommunity.com/profiles/76561198055477808) |  |  |
 | goosethegooseyboose | [76561199122312731](https://steamcommunity.com/profiles/76561199122312731) |  |  |
