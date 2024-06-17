@@ -20,7 +20,7 @@
 | Mostri2050 | [76561198876580116](https://steamcommunity.com/profiles/76561198876580116) |  |  |
 | kasuito2555 | [76561198359448207](https://steamcommunity.com/profiles/76561198359448207) |  |  |
 | Z-SER-0 | [76561199214790001](https://steamcommunity.com/profiles/76561199214790001) | ViperZER0 |  |
-| K0T3TSU | [76561198349602018](https://steamcommunity.com/profiles/76561198349602018) |  |  |
+| Baby | [76561198349602018](https://steamcommunity.com/profiles/76561198349602018) |  |  |
 | Colonel Cipher | [76561198074076241](https://steamcommunity.com/profiles/76561198074076241) | Colonel&#32;Cipher |  |
 | 理解中俄朝伊人的愚昧,如理解狼孩毛格利一样 | [76561198144072073](https://steamcommunity.com/profiles/76561198144072073) | zhuonghui0001 |  |
 | jjthesteve000 | [76561198893141948](https://steamcommunity.com/profiles/76561198893141948) |  |  |
