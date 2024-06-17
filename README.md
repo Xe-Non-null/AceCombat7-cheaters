@@ -42,7 +42,7 @@
 | Enterprise | [76561198180593561](https://steamcommunity.com/profiles/76561198180593561) |  |  |
 | Tsu | [76561198850362167](https://steamcommunity.com/profiles/76561198850362167) | Bravo |  |
 | Torero | [76561199216725193](https://steamcommunity.com/profiles/76561199216725193) | Skyfire |  |
-|  | [76561199135446407](https://steamcommunity.com/profiles/76561199135446407) |  |  |
+| 󠀡󠀡 | [76561199135446407](https://steamcommunity.com/profiles/76561199135446407) |  |  |
 | Moretti | [76561199117280140](https://steamcommunity.com/profiles/76561199117280140) |  |  |
 | 老司鸡 | [76561198443132230](https://steamcommunity.com/profiles/76561198443132230) |  |  |
 | Overlord | [76561198829863126](https://steamcommunity.com/profiles/76561198829863126) | Skyle@der |  |
