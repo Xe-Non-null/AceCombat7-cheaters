@@ -88,7 +88,7 @@
 | 小智避开来 | [76561198075692143](https://steamcommunity.com/profiles/76561198075692143) |  |  |
 | Piccolo | [76561198817889927](https://steamcommunity.com/profiles/76561198817889927) |  |  |
 | Filp Bogle | [76561198328779734](https://steamcommunity.com/profiles/76561198328779734) |  |  |
-| WUHAN VIRUS | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  |  |
+| 習近平 | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  |  |
 | 孫郎竟云何? | [76561198953392478](https://steamcommunity.com/profiles/76561198953392478) |  |  |
 | Khalezy | [76561199150963881](https://steamcommunity.com/profiles/76561199150963881) |  |  |
 | TANAKA Makio | [76561199036761417](https://steamcommunity.com/profiles/76561199036761417) |  |  |
