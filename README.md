@@ -4,7 +4,7 @@
 | Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |
 | 習近平 | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  |  |
-| Ko6Sk | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
+| ASJ | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
 | shenghua3949 | [76561198003231591](https://steamcommunity.com/profiles/76561198003231591) |  |  |
 | 76561198299775669 | [76561198299775669](https://steamcommunity.com/profiles/76561198299775669) |  |  |
 | caonimeigu | [76561199361973029](https://steamcommunity.com/profiles/76561199361973029) |  |  |
