@@ -3,6 +3,7 @@
 
 | Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |
+| 習近平 | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  |  |
 | Ko6Sk | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
 | shenghua3949 | [76561198003231591](https://steamcommunity.com/profiles/76561198003231591) |  |  |
 | 76561198299775669 | [76561198299775669](https://steamcommunity.com/profiles/76561198299775669) |  |  |
@@ -22,7 +23,7 @@
 | Z-SER-0 | [76561199214790001](https://steamcommunity.com/profiles/76561199214790001) | ViperZER0 |  |
 | Baby | [76561198349602018](https://steamcommunity.com/profiles/76561198349602018) |  |  |
 | Colonel Cipher | [76561198074076241](https://steamcommunity.com/profiles/76561198074076241) | Colonel&#32;Cipher |  |
-| 老一辈东德人最应该同情帮助局域网里的人民 | [76561198144072073](https://steamcommunity.com/profiles/76561198144072073) | zhuonghui0001 |  |
+| 义和团对本国外国平民的伤害,是把愚昧具象化 | [76561198144072073](https://steamcommunity.com/profiles/76561198144072073) | zhuonghui0001 |  |
 | jjthesteve000 | [76561198893141948](https://steamcommunity.com/profiles/76561198893141948) |  |  |
 | CNEOS1-kryo | [76561199590949305](https://steamcommunity.com/profiles/76561199590949305) |  |  |
 | RougeLarme | [76561198018473837](https://steamcommunity.com/profiles/76561198018473837) |  |  |
@@ -88,7 +89,6 @@
 | 小智避开来 | [76561198075692143](https://steamcommunity.com/profiles/76561198075692143) |  |  |
 | Piccolo | [76561198817889927](https://steamcommunity.com/profiles/76561198817889927) |  |  |
 | Filp Bogle | [76561198328779734](https://steamcommunity.com/profiles/76561198328779734) |  |  |
-| 習近平 | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  |  |
 | 孫郎竟云何? | [76561198953392478](https://steamcommunity.com/profiles/76561198953392478) |  |  |
 | Khalezy | [76561199150963881](https://steamcommunity.com/profiles/76561199150963881) |  |  |
 | TANAKA Makio | [76561199036761417](https://steamcommunity.com/profiles/76561199036761417) |  |  |
