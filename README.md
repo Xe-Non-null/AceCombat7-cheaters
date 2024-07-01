@@ -3,6 +3,7 @@
 
 | Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |
+| Rodrigo Oliveira | [76561198406113787](https://steamcommunity.com/profiles/76561198406113787) |  |  |
 | 方塊酥老張 | [76561199444803497](https://steamcommunity.com/profiles/76561199444803497) |  |  |
 | TANAKA Makio | [76561199036761417](https://steamcommunity.com/profiles/76561199036761417) |  |  |
 | 習近平 | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  |  |
