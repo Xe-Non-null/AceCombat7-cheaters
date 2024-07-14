@@ -28,7 +28,7 @@
 | Z-SER-0 | [76561199214790001](https://steamcommunity.com/profiles/76561199214790001) | ViperZER0 |  |
 | Baby | [76561198349602018](https://steamcommunity.com/profiles/76561198349602018) | K0T3TSU |  |
 | Colonel Cipher | [76561198074076241](https://steamcommunity.com/profiles/76561198074076241) | Colonel&#32;Cipher |  |
-| 所有的类苏联国家,都在进行人种逆淘汰 | [76561198144072073](https://steamcommunity.com/profiles/76561198144072073) | zhuonghui0001 |  |
+| 类苏联国家,低层工资太微薄,上层印钱无节制 | [76561198144072073](https://steamcommunity.com/profiles/76561198144072073) | zhuonghui0001 |  |
 | jjthesteve000 | [76561198893141948](https://steamcommunity.com/profiles/76561198893141948) |  |  |
 | CNEOS1-kryo | [76561199590949305](https://steamcommunity.com/profiles/76561199590949305) |  |  |
 | RougeLarme | [76561198018473837](https://steamcommunity.com/profiles/76561198018473837) |  |  |
@@ -63,7 +63,7 @@
 | JudgeDredd | [76561199229848829](https://steamcommunity.com/profiles/76561199229848829) |  |  |
 | minakosenpai | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
 | Teniente Muffin | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
-| Tokisaki Kurumi | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) |  |  |
+| Mr. Неизвестность | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) |  |  |
 | rudukwc13 | [76561199223936931](https://steamcommunity.com/profiles/76561199223936931) |  |  |
 | ATLAS | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
 | exolist393 | [76561199373637935](https://steamcommunity.com/profiles/76561199373637935) |  |  |
