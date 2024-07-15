@@ -3,7 +3,7 @@
 
 | Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |
-| CHINCHONG DRONE | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  |  |
+| CHINCHONG DRONE | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  | Very&#32;bad |
 | Bigbadhusky | [76561198816925680](https://steamcommunity.com/profiles/76561198816925680) |  |  |
 | 吉他 | [76561199092155231](https://steamcommunity.com/profiles/76561199092155231) |  |  |
 | Rodrigo Oliveira | [76561198406113787](https://steamcommunity.com/profiles/76561198406113787) |  |  |
