@@ -67,7 +67,7 @@
 | Teniente Muffin | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
 | The Author | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) |  |  |
 | rudukwc13 | [76561199223936931](https://steamcommunity.com/profiles/76561199223936931) |  |  |
-| ATLAS | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
+|  | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
 | exolist393 | [76561199373637935](https://steamcommunity.com/profiles/76561199373637935) |  |  |
 | 葫芦岛盗号王:杨昊 | [76561199002216348](https://steamcommunity.com/profiles/76561199002216348) | 蜡笔小蟹 |  |
 | Crazystarwar | [76561198426925179](https://steamcommunity.com/profiles/76561198426925179) |  |  |
@@ -150,7 +150,7 @@
 | 老七 | [76561199070000800](https://steamcommunity.com/profiles/76561199070000800) |  |  |
 | you kick me cuz ure bad | [76561199086244180](https://steamcommunity.com/profiles/76561199086244180) |  |  |
 | Radder | [76561198084874424](https://steamcommunity.com/profiles/76561198084874424) |  |  |
-|  | [76561198108197134](https://steamcommunity.com/profiles/76561198108197134) |  |  |
+| ..&#124;.. | [76561198108197134](https://steamcommunity.com/profiles/76561198108197134) |  |  |
 | WisdomTong | [76561198407886594](https://steamcommunity.com/profiles/76561198407886594) |  |  |
 | ATHOOD | [76561198101337488](https://steamcommunity.com/profiles/76561198101337488) |  |  |
 | 一个不正经的老头 | [76561198851216499](https://steamcommunity.com/profiles/76561198851216499) |  |  |
