@@ -4,15 +4,15 @@
 | Name | Steam URL ID | Ailases | Note |
 | ------ | ------ | ------ | ------ |
 | Blahaj supremacy | [76561198897831595](https://steamcommunity.com/profiles/76561198897831595) | Blahaj&#32;supremacy |  |
-|  | [76561198021172153](https://steamcommunity.com/profiles/76561198021172153) | Pharaoh |  |
+| Hugh G. Rection | [76561198021172153](https://steamcommunity.com/profiles/76561198021172153) | Pharaoh |  |
 | SSSchwarz | [76561198446971768](https://steamcommunity.com/profiles/76561198446971768) | SSSchwarz |  |
 | 76561199304050583 | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  | Very&#32;bad |
 | AsheFox | [76561198816925680](https://steamcommunity.com/profiles/76561198816925680) |  |  |
 | 吉他 | [76561199092155231](https://steamcommunity.com/profiles/76561199092155231) |  |  |
 | Rodrigo Oliveira | [76561198406113787](https://steamcommunity.com/profiles/76561198406113787) |  |  |
 | 方塊酥老張 | [76561199444803497](https://steamcommunity.com/profiles/76561199444803497) |  |  |
-|  | [76561199036761417](https://steamcommunity.com/profiles/76561199036761417) |  |  |
-|  | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
+| TANAKA Makio | [76561199036761417](https://steamcommunity.com/profiles/76561199036761417) |  |  |
+| ASJ | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | siz.sawaf |  |
 | shenghua3949 | [76561198003231591](https://steamcommunity.com/profiles/76561198003231591) |  |  |
 | 76561198299775669 | [76561198299775669](https://steamcommunity.com/profiles/76561198299775669) |  |  |
 | caonimeigu | [76561199361973029](https://steamcommunity.com/profiles/76561199361973029) |  |  |
@@ -27,7 +27,7 @@
 | NH the Introvert | [76561198055477808](https://steamcommunity.com/profiles/76561198055477808) |  |  |
 | goosethegooseyboose | [76561199122312731](https://steamcommunity.com/profiles/76561199122312731) |  |  |
 | Mostri2050 | [76561198876580116](https://steamcommunity.com/profiles/76561198876580116) |  |  |
-|  | [76561198359448207](https://steamcommunity.com/profiles/76561198359448207) |  |  |
+| Nokotan | [76561198359448207](https://steamcommunity.com/profiles/76561198359448207) |  |  |
 | Z-SER-0 | [76561199214790001](https://steamcommunity.com/profiles/76561199214790001) | ViperZER0 |  |
 | Baby | [76561198349602018](https://steamcommunity.com/profiles/76561198349602018) | K0T3TSU |  |
 | Colonel Cipher | [76561198074076241](https://steamcommunity.com/profiles/76561198074076241) | Colonel&#32;Cipher |  |
