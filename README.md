@@ -8,7 +8,7 @@
 | Hugh G. Rection | [76561198021172153](https://steamcommunity.com/profiles/76561198021172153) | Pharaoh |  |
 | SSSchwarz | [76561198446971768](https://steamcommunity.com/profiles/76561198446971768) | SSSchwarz |  |
 | 76561199304050583 | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  | Very&#32;bad |
-| AsheFox | [76561198816925680](https://steamcommunity.com/profiles/76561198816925680) |  |  |
+| 饺子今天毁灭世界了吗 | [76561198816925680](https://steamcommunity.com/profiles/76561198816925680) |  |  |
 | 吉他 | [76561199092155231](https://steamcommunity.com/profiles/76561199092155231) |  |  |
 | 方塊酥老張 | [76561199444803497](https://steamcommunity.com/profiles/76561199444803497) |  |  |
 | TANAKA Makio | [76561199036761417](https://steamcommunity.com/profiles/76561199036761417) |  |  |
